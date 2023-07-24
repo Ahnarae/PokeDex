@@ -17,7 +17,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 2,
@@ -38,7 +39,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 3,
@@ -59,7 +61,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 4,
@@ -79,7 +82,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 5,
@@ -99,7 +103,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 65,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 6,
@@ -120,7 +125,8 @@
       "Sp. Attack": 109,
       "Sp. Defense": 85,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 7,
@@ -140,7 +146,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 64,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 8,
@@ -160,7 +167,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 80,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 9,
@@ -180,7 +188,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 105,
       "Speed": 78
-    }
+    },
+"description":""
   },
   {
     "id": 10,
@@ -200,7 +209,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 20,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 11,
@@ -220,7 +230,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 12,
@@ -241,7 +252,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 80,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 13,
@@ -262,7 +274,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 20,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 14,
@@ -283,7 +296,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 15,
@@ -304,7 +318,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 80,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 16,
@@ -325,7 +340,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 56
-    }
+    },
+"description":""
   },
   {
     "id": 17,
@@ -346,7 +362,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 71
-    }
+    },
+"description":""
   },
   {
     "id": 18,
@@ -367,7 +384,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 19,
@@ -387,7 +405,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 35,
       "Speed": 72
-    }
+    },
+"description":""
   },
   {
     "id": 20,
@@ -407,7 +426,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 21,
@@ -428,7 +448,8 @@
       "Sp. Attack": 31,
       "Sp. Defense": 31,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 22,
@@ -449,7 +470,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 61,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 23,
@@ -469,7 +491,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 54,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 24,
@@ -489,7 +512,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 79,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 25,
@@ -509,7 +533,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 26,
@@ -529,7 +554,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 80,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 27,
@@ -549,7 +575,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 28,
@@ -569,7 +596,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 29,
@@ -589,7 +617,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 41
-    }
+    },
+"description":""
   },
   {
     "id": 30,
@@ -609,7 +638,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 56
-    }
+    },
+"description":""
   },
   {
     "id": 31,
@@ -630,7 +660,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 76
-    }
+    },
+"description":""
   },
   {
     "id": 32,
@@ -650,7 +681,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 33,
@@ -670,7 +702,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 34,
@@ -691,7 +724,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 35,
@@ -711,7 +745,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 65,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 36,
@@ -731,7 +766,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 37,
@@ -751,7 +787,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 65,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 38,
@@ -771,7 +808,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 39,
@@ -792,7 +830,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 25,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 40,
@@ -813,7 +852,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 50,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 41,
@@ -834,7 +874,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 40,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 42,
@@ -855,7 +896,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 75,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 43,
@@ -876,7 +918,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 65,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 44,
@@ -897,7 +940,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 45,
@@ -918,7 +962,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 90,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 46,
@@ -939,7 +984,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 47,
@@ -960,7 +1006,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 48,
@@ -981,7 +1028,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 49,
@@ -1002,7 +1050,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 75,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 50,
@@ -1022,7 +1071,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 51,
@@ -1042,7 +1092,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 120
-    }
+    },
+"description":""
   },
   {
     "id": 52,
@@ -1062,7 +1113,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 53,
@@ -1082,7 +1134,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 54,
@@ -1102,7 +1155,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 50,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 55,
@@ -1122,7 +1176,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 80,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 56,
@@ -1142,7 +1197,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 57,
@@ -1162,7 +1218,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 58,
@@ -1182,7 +1239,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 50,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 59,
@@ -1202,7 +1260,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 60,
@@ -1222,7 +1281,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 61,
@@ -1242,7 +1302,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 62,
@@ -1263,7 +1324,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 90,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 63,
@@ -1283,7 +1345,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 55,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 64,
@@ -1303,7 +1366,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 65,
@@ -1323,7 +1387,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 95,
       "Speed": 120
-    }
+    },
+"description":""
   },
   {
     "id": 66,
@@ -1343,7 +1408,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 67,
@@ -1363,7 +1429,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 60,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 68,
@@ -1383,7 +1450,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 85,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 69,
@@ -1404,7 +1472,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 30,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 70,
@@ -1425,7 +1494,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 71,
@@ -1446,7 +1516,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 72,
@@ -1467,7 +1538,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 100,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 73,
@@ -1488,7 +1560,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 120,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 74,
@@ -1509,7 +1582,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 75,
@@ -1530,7 +1604,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 76,
@@ -1551,7 +1626,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 77,
@@ -1571,7 +1647,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 78,
@@ -1591,7 +1668,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 79,
@@ -1612,7 +1690,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 80,
@@ -1633,7 +1712,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 81,
@@ -1654,7 +1734,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 55,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 82,
@@ -1675,7 +1756,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 83,
@@ -1696,7 +1778,8 @@
       "Sp. Attack": 58,
       "Sp. Defense": 62,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 84,
@@ -1717,7 +1800,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 85,
@@ -1738,7 +1822,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 86,
@@ -1758,7 +1843,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 70,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 87,
@@ -1779,7 +1865,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 95,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 88,
@@ -1799,7 +1886,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 89,
@@ -1819,7 +1907,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 100,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 90,
@@ -1839,7 +1928,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 25,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 91,
@@ -1860,7 +1950,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 92,
@@ -1881,7 +1972,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 35,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 93,
@@ -1902,7 +1994,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 55,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 94,
@@ -1923,7 +2016,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 75,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 95,
@@ -1944,7 +2038,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 45,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 96,
@@ -1964,7 +2059,8 @@
       "Sp. Attack": 43,
       "Sp. Defense": 90,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 97,
@@ -1984,7 +2080,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 115,
       "Speed": 67
-    }
+    },
+"description":""
   },
   {
     "id": 98,
@@ -2004,7 +2101,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 99,
@@ -2024,7 +2122,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 100,
@@ -2044,7 +2143,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 101,
@@ -2064,7 +2164,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 150
-    }
+    },
+"description":""
   },
   {
     "id": 102,
@@ -2085,7 +2186,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 45,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 103,
@@ -2106,7 +2208,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 75,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 104,
@@ -2126,7 +2229,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 105,
@@ -2146,7 +2250,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 80,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 106,
@@ -2166,7 +2271,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 87
-    }
+    },
+"description":""
   },
   {
     "id": 107,
@@ -2186,7 +2292,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 76
-    }
+    },
+"description":""
   },
   {
     "id": 108,
@@ -2206,7 +2313,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 109,
@@ -2226,7 +2334,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 45,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 110,
@@ -2246,7 +2355,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 70,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 111,
@@ -2267,7 +2377,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 112,
@@ -2288,7 +2399,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 113,
@@ -2308,7 +2420,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 105,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 114,
@@ -2328,7 +2441,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 115,
@@ -2348,7 +2462,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 80,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 116,
@@ -2368,7 +2483,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 25,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 117,
@@ -2388,7 +2504,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 45,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 118,
@@ -2408,7 +2525,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 50,
       "Speed": 63
-    }
+    },
+"description":""
   },
   {
     "id": 119,
@@ -2428,7 +2546,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 80,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 120,
@@ -2448,7 +2567,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 55,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 121,
@@ -2469,7 +2589,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 85,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 122,
@@ -2490,7 +2611,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 120,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 123,
@@ -2511,7 +2633,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 80,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 124,
@@ -2532,7 +2655,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 95,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 125,
@@ -2552,7 +2676,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 85,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 126,
@@ -2572,7 +2697,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 85,
       "Speed": 93
-    }
+    },
+"description":""
   },
   {
     "id": 127,
@@ -2592,7 +2718,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 70,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 128,
@@ -2612,7 +2739,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 70,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 129,
@@ -2632,7 +2760,8 @@
       "Sp. Attack": 15,
       "Sp. Defense": 20,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 130,
@@ -2653,7 +2782,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 100,
       "Speed": 81
-    }
+    },
+"description":""
   },
   {
     "id": 131,
@@ -2674,7 +2804,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 95,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 132,
@@ -2694,7 +2825,8 @@
       "Sp. Attack": 48,
       "Sp. Defense": 48,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 133,
@@ -2714,7 +2846,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 134,
@@ -2734,7 +2867,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 95,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 135,
@@ -2754,7 +2888,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 95,
       "Speed": 130
-    }
+    },
+"description":""
   },
   {
     "id": 136,
@@ -2774,7 +2909,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 110,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 137,
@@ -2794,7 +2930,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 138,
@@ -2815,7 +2952,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 55,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 139,
@@ -2836,7 +2974,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 70,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 140,
@@ -2857,7 +2996,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 45,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 141,
@@ -2878,7 +3018,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 142,
@@ -2899,7 +3040,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 130
-    }
+    },
+"description":""
   },
   {
     "id": 143,
@@ -2919,7 +3061,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 110,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 144,
@@ -2940,7 +3083,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 125,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 145,
@@ -2961,7 +3105,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 90,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 146,
@@ -2982,7 +3127,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 85,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 147,
@@ -3002,7 +3148,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 148,
@@ -3022,7 +3169,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 149,
@@ -3043,7 +3191,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 150,
@@ -3063,7 +3212,8 @@
       "Sp. Attack": 154,
       "Sp. Defense": 90,
       "Speed": 130
-    }
+    },
+"description":""
   },
   {
     "id": 151,
@@ -3083,7 +3233,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 152,
@@ -3103,7 +3254,8 @@
       "Sp. Attack": 49,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 153,
@@ -3123,7 +3275,8 @@
       "Sp. Attack": 63,
       "Sp. Defense": 80,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 154,
@@ -3143,7 +3296,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 100,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 155,
@@ -3163,7 +3317,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 156,
@@ -3183,7 +3338,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 65,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 157,
@@ -3203,7 +3359,8 @@
       "Sp. Attack": 109,
       "Sp. Defense": 85,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 158,
@@ -3223,7 +3380,8 @@
       "Sp. Attack": 44,
       "Sp. Defense": 48,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 159,
@@ -3243,7 +3401,8 @@
       "Sp. Attack": 59,
       "Sp. Defense": 63,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 160,
@@ -3263,7 +3422,8 @@
       "Sp. Attack": 79,
       "Sp. Defense": 83,
       "Speed": 78
-    }
+    },
+"description":""
   },
   {
     "id": 161,
@@ -3283,7 +3443,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 162,
@@ -3303,7 +3464,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 163,
@@ -3324,7 +3486,8 @@
       "Sp. Attack": 36,
       "Sp. Defense": 56,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 164,
@@ -3345,7 +3508,8 @@
       "Sp. Attack": 86,
       "Sp. Defense": 96,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 165,
@@ -3366,7 +3530,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 80,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 166,
@@ -3387,7 +3552,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 110,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 167,
@@ -3408,7 +3574,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 168,
@@ -3429,7 +3596,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 169,
@@ -3450,7 +3618,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 130
-    }
+    },
+"description":""
   },
   {
     "id": 170,
@@ -3471,7 +3640,8 @@
       "Sp. Attack": 56,
       "Sp. Defense": 56,
       "Speed": 67
-    }
+    },
+"description":""
   },
   {
     "id": 171,
@@ -3492,7 +3662,8 @@
       "Sp. Attack": 76,
       "Sp. Defense": 76,
       "Speed": 67
-    }
+    },
+"description":""
   },
   {
     "id": 172,
@@ -3512,7 +3683,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 173,
@@ -3532,7 +3704,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 174,
@@ -3553,7 +3726,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 20,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 175,
@@ -3573,7 +3747,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 65,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 176,
@@ -3594,7 +3769,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 105,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 177,
@@ -3615,7 +3791,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 45,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 178,
@@ -3636,7 +3813,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 70,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 179,
@@ -3656,7 +3834,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 45,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 180,
@@ -3676,7 +3855,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 60,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 181,
@@ -3696,7 +3876,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 90,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 182,
@@ -3716,7 +3897,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 183,
@@ -3737,7 +3919,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 50,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 184,
@@ -3758,7 +3941,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 185,
@@ -3778,7 +3962,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 65,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 186,
@@ -3798,7 +3983,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 187,
@@ -3819,7 +4005,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 55,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 188,
@@ -3840,7 +4027,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 189,
@@ -3861,7 +4049,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 95,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 190,
@@ -3881,7 +4070,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 191,
@@ -3901,7 +4091,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 192,
@@ -3921,7 +4112,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 85,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 193,
@@ -3942,7 +4134,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 45,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 194,
@@ -3963,7 +4156,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 195,
@@ -3984,7 +4178,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 196,
@@ -4004,7 +4199,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 95,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 197,
@@ -4024,7 +4220,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 130,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 198,
@@ -4045,7 +4242,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 42,
       "Speed": 91
-    }
+    },
+"description":""
   },
   {
     "id": 199,
@@ -4066,7 +4264,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 110,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 200,
@@ -4086,7 +4285,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 85,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 201,
@@ -4106,7 +4306,8 @@
       "Sp. Attack": 72,
       "Sp. Defense": 48,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 202,
@@ -4126,7 +4327,8 @@
       "Sp. Attack": 33,
       "Sp. Defense": 58,
       "Speed": 33
-    }
+    },
+"description":""
   },
   {
     "id": 203,
@@ -4147,7 +4349,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 65,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 204,
@@ -4167,7 +4370,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 205,
@@ -4188,7 +4392,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 206,
@@ -4208,7 +4413,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 207,
@@ -4229,7 +4435,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 65,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 208,
@@ -4250,7 +4457,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 209,
@@ -4270,7 +4478,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 210,
@@ -4290,7 +4499,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 211,
@@ -4311,7 +4521,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 212,
@@ -4332,7 +4543,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 80,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 213,
@@ -4353,7 +4565,8 @@
       "Sp. Attack": 10,
       "Sp. Defense": 230,
       "Speed": 5
-    }
+    },
+"description":""
   },
   {
     "id": 214,
@@ -4374,7 +4587,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 95,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 215,
@@ -4395,7 +4609,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 75,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 216,
@@ -4415,7 +4630,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 217,
@@ -4435,7 +4651,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 75,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 218,
@@ -4455,7 +4672,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 40,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 219,
@@ -4476,7 +4694,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 80,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 220,
@@ -4497,7 +4716,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 221,
@@ -4518,7 +4738,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 222,
@@ -4539,7 +4760,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 95,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 223,
@@ -4559,7 +4781,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 35,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 224,
@@ -4579,7 +4802,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 75,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 225,
@@ -4600,7 +4824,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 45,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 226,
@@ -4621,7 +4846,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 140,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 227,
@@ -4642,7 +4868,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 228,
@@ -4663,7 +4890,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 229,
@@ -4684,7 +4912,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 80,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 230,
@@ -4705,7 +4934,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 95,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 231,
@@ -4725,7 +4955,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 232,
@@ -4745,7 +4976,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 233,
@@ -4765,7 +4997,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 95,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 234,
@@ -4785,7 +5018,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 65,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 235,
@@ -4805,7 +5039,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 45,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 236,
@@ -4825,7 +5060,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 237,
@@ -4845,7 +5081,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 238,
@@ -4866,7 +5103,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 65,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 239,
@@ -4886,7 +5124,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 240,
@@ -4906,7 +5145,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 55,
       "Speed": 83
-    }
+    },
+"description":""
   },
   {
     "id": 241,
@@ -4926,7 +5166,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 70,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 242,
@@ -4946,7 +5187,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 135,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 243,
@@ -4966,7 +5208,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 100,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 244,
@@ -4986,7 +5229,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 75,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 245,
@@ -5006,7 +5250,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 115,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 246,
@@ -5027,7 +5272,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 50,
       "Speed": 41
-    }
+    },
+"description":""
   },
   {
     "id": 247,
@@ -5048,7 +5294,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 51
-    }
+    },
+"description":""
   },
   {
     "id": 248,
@@ -5069,7 +5316,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 100,
       "Speed": 61
-    }
+    },
+"description":""
   },
   {
     "id": 249,
@@ -5090,7 +5338,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 154,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 250,
@@ -5111,7 +5360,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 154,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 251,
@@ -5132,7 +5382,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 252,
@@ -5152,7 +5403,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 253,
@@ -5172,7 +5424,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 65,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 254,
@@ -5192,7 +5445,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 85,
       "Speed": 120
-    }
+    },
+"description":""
   },
   {
     "id": 255,
@@ -5212,7 +5466,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 50,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 256,
@@ -5233,7 +5488,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 60,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 257,
@@ -5254,7 +5510,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 70,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 258,
@@ -5274,7 +5531,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 259,
@@ -5295,7 +5553,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 260,
@@ -5316,7 +5575,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 90,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 261,
@@ -5336,7 +5596,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 262,
@@ -5356,7 +5617,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 263,
@@ -5376,7 +5638,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 41,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 264,
@@ -5396,7 +5659,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 61,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 265,
@@ -5416,7 +5680,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 266,
@@ -5436,7 +5701,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 267,
@@ -5457,7 +5723,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 268,
@@ -5477,7 +5744,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 269,
@@ -5498,7 +5766,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 90,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 270,
@@ -5519,7 +5788,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 271,
@@ -5540,7 +5810,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 272,
@@ -5561,7 +5832,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 273,
@@ -5581,7 +5853,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 274,
@@ -5602,7 +5875,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 275,
@@ -5623,7 +5897,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 60,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 276,
@@ -5644,7 +5919,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 277,
@@ -5665,7 +5941,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 50,
       "Speed": 125
-    }
+    },
+"description":""
   },
   {
     "id": 278,
@@ -5686,7 +5963,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 30,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 279,
@@ -5707,7 +5985,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 70,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 280,
@@ -5728,7 +6007,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 35,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 281,
@@ -5749,7 +6029,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 282,
@@ -5770,7 +6051,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 115,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 283,
@@ -5791,7 +6073,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 52,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 284,
@@ -5812,7 +6095,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 82,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 285,
@@ -5832,7 +6116,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 60,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 286,
@@ -5853,7 +6138,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 287,
@@ -5873,7 +6159,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 288,
@@ -5893,7 +6180,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 289,
@@ -5913,7 +6201,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 65,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 290,
@@ -5934,7 +6223,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 291,
@@ -5955,7 +6245,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 160
-    }
+    },
+"description":""
   },
   {
     "id": 292,
@@ -5976,7 +6267,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 293,
@@ -5996,7 +6288,8 @@
       "Sp. Attack": 51,
       "Sp. Defense": 23,
       "Speed": 28
-    }
+    },
+"description":""
   },
   {
     "id": 294,
@@ -6016,7 +6309,8 @@
       "Sp. Attack": 71,
       "Sp. Defense": 43,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 295,
@@ -6036,7 +6330,8 @@
       "Sp. Attack": 91,
       "Sp. Defense": 73,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 296,
@@ -6056,7 +6351,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 297,
@@ -6076,7 +6372,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 60,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 298,
@@ -6097,7 +6394,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 40,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 299,
@@ -6117,7 +6415,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 90,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 300,
@@ -6137,7 +6436,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 301,
@@ -6157,7 +6457,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 302,
@@ -6178,7 +6479,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 303,
@@ -6199,7 +6501,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 304,
@@ -6220,7 +6523,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 305,
@@ -6241,7 +6545,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 306,
@@ -6262,7 +6567,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 307,
@@ -6283,7 +6589,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 308,
@@ -6304,7 +6611,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 309,
@@ -6324,7 +6632,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 40,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 310,
@@ -6344,7 +6653,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 60,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 311,
@@ -6364,7 +6674,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 312,
@@ -6384,7 +6695,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 313,
@@ -6404,7 +6716,8 @@
       "Sp. Attack": 47,
       "Sp. Defense": 85,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 314,
@@ -6424,7 +6737,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 85,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 315,
@@ -6445,7 +6759,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 316,
@@ -6465,7 +6780,8 @@
       "Sp. Attack": 43,
       "Sp. Defense": 53,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 317,
@@ -6485,7 +6801,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 83,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 318,
@@ -6506,7 +6823,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 20,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 319,
@@ -6527,7 +6845,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 40,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 320,
@@ -6547,7 +6866,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 35,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 321,
@@ -6567,7 +6887,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 45,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 322,
@@ -6588,7 +6909,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 45,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 323,
@@ -6609,7 +6931,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 75,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 324,
@@ -6629,7 +6952,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 70,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 325,
@@ -6649,7 +6973,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 326,
@@ -6669,7 +6994,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 110,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 327,
@@ -6689,7 +7015,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 328,
@@ -6709,7 +7036,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 10
-    }
+    },
+"description":""
   },
   {
     "id": 329,
@@ -6730,7 +7058,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 330,
@@ -6751,7 +7080,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 331,
@@ -6771,7 +7101,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 40,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 332,
@@ -6792,7 +7123,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 60,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 333,
@@ -6813,7 +7145,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 75,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 334,
@@ -6834,7 +7167,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 105,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 335,
@@ -6854,7 +7188,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 336,
@@ -6874,7 +7209,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 60,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 337,
@@ -6895,7 +7231,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 85,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 338,
@@ -6916,7 +7253,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 339,
@@ -6937,7 +7275,8 @@
       "Sp. Attack": 46,
       "Sp. Defense": 41,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 340,
@@ -6958,7 +7297,8 @@
       "Sp. Attack": 76,
       "Sp. Defense": 71,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 341,
@@ -6978,7 +7318,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 35,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 342,
@@ -6999,7 +7340,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 55,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 343,
@@ -7020,7 +7362,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 70,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 344,
@@ -7041,7 +7384,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 120,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 345,
@@ -7062,7 +7406,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 87,
       "Speed": 23
-    }
+    },
+"description":""
   },
   {
     "id": 346,
@@ -7083,7 +7428,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 107,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 347,
@@ -7104,7 +7450,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 348,
@@ -7125,7 +7472,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 349,
@@ -7145,7 +7493,8 @@
       "Sp. Attack": 10,
       "Sp. Defense": 55,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 350,
@@ -7165,7 +7514,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 125,
       "Speed": 81
-    }
+    },
+"description":""
   },
   {
     "id": 351,
@@ -7185,7 +7535,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 352,
@@ -7205,7 +7556,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 120,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 353,
@@ -7225,7 +7577,8 @@
       "Sp. Attack": 63,
       "Sp. Defense": 33,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 354,
@@ -7245,7 +7598,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 63,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 355,
@@ -7265,7 +7619,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 90,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 356,
@@ -7285,7 +7640,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 130,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 357,
@@ -7306,7 +7662,8 @@
       "Sp. Attack": 72,
       "Sp. Defense": 87,
       "Speed": 51
-    }
+    },
+"description":""
   },
   {
     "id": 358,
@@ -7326,7 +7683,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 359,
@@ -7346,7 +7704,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 60,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 360,
@@ -7366,7 +7725,8 @@
       "Sp. Attack": 23,
       "Sp. Defense": 48,
       "Speed": 23
-    }
+    },
+"description":""
   },
   {
     "id": 361,
@@ -7386,7 +7746,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 362,
@@ -7406,7 +7767,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 363,
@@ -7427,7 +7789,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 50,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 364,
@@ -7448,7 +7811,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 70,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 365,
@@ -7469,7 +7833,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 366,
@@ -7489,7 +7854,8 @@
       "Sp. Attack": 74,
       "Sp. Defense": 55,
       "Speed": 32
-    }
+    },
+"description":""
   },
   {
     "id": 367,
@@ -7509,7 +7875,8 @@
       "Sp. Attack": 94,
       "Sp. Defense": 75,
       "Speed": 52
-    }
+    },
+"description":""
   },
   {
     "id": 368,
@@ -7529,7 +7896,8 @@
       "Sp. Attack": 114,
       "Sp. Defense": 75,
       "Speed": 52
-    }
+    },
+"description":""
   },
   {
     "id": 369,
@@ -7550,7 +7918,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 370,
@@ -7570,7 +7939,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 65,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 371,
@@ -7590,7 +7960,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 30,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 372,
@@ -7610,7 +7981,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 50,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 373,
@@ -7631,7 +8003,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 80,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 374,
@@ -7652,7 +8025,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 60,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 375,
@@ -7673,7 +8047,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 80,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 376,
@@ -7694,7 +8069,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 377,
@@ -7714,7 +8090,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 100,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 378,
@@ -7734,7 +8111,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 200,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 379,
@@ -7754,7 +8132,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 150,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 380,
@@ -7775,7 +8154,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 130,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 381,
@@ -7796,7 +8176,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 110,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 382,
@@ -7816,7 +8197,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 140,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 383,
@@ -7836,7 +8218,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 90,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 384,
@@ -7857,7 +8240,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 90,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 385,
@@ -7878,7 +8262,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 386,
@@ -7898,7 +8283,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 50,
       "Speed": 150
-    }
+    },
+"description":""
   },
   {
     "id": 387,
@@ -7918,7 +8304,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 31
-    }
+    },
+"description":""
   },
   {
     "id": 388,
@@ -7938,7 +8325,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 389,
@@ -7959,7 +8347,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 56
-    }
+    },
+"description":""
   },
   {
     "id": 390,
@@ -7979,7 +8368,8 @@
       "Sp. Attack": 58,
       "Sp. Defense": 44,
       "Speed": 61
-    }
+    },
+"description":""
   },
   {
     "id": 391,
@@ -8000,7 +8390,8 @@
       "Sp. Attack": 78,
       "Sp. Defense": 52,
       "Speed": 81
-    }
+    },
+"description":""
   },
   {
     "id": 392,
@@ -8021,7 +8412,8 @@
       "Sp. Attack": 104,
       "Sp. Defense": 71,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 393,
@@ -8041,7 +8433,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 56,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 394,
@@ -8061,7 +8454,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 76,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 395,
@@ -8082,7 +8476,8 @@
       "Sp. Attack": 111,
       "Sp. Defense": 101,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 396,
@@ -8103,7 +8498,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 397,
@@ -8124,7 +8520,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 398,
@@ -8145,7 +8542,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 60,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 399,
@@ -8165,7 +8563,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 40,
       "Speed": 31
-    }
+    },
+"description":""
   },
   {
     "id": 400,
@@ -8186,7 +8585,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 60,
       "Speed": 71
-    }
+    },
+"description":""
   },
   {
     "id": 401,
@@ -8206,7 +8606,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 41,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 402,
@@ -8226,7 +8627,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 51,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 403,
@@ -8246,7 +8648,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 34,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 404,
@@ -8266,7 +8669,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 49,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 405,
@@ -8286,7 +8690,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 79,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 406,
@@ -8307,7 +8712,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 407,
@@ -8328,7 +8734,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 105,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 408,
@@ -8348,7 +8755,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 409,
@@ -8368,7 +8776,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 50,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 410,
@@ -8389,7 +8798,8 @@
       "Sp. Attack": 42,
       "Sp. Defense": 88,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 411,
@@ -8410,7 +8820,8 @@
       "Sp. Attack": 47,
       "Sp. Defense": 138,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 412,
@@ -8430,7 +8841,8 @@
       "Sp. Attack": 29,
       "Sp. Defense": 45,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 413,
@@ -8451,7 +8863,8 @@
       "Sp. Attack": 79,
       "Sp. Defense": 105,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 414,
@@ -8472,7 +8885,8 @@
       "Sp. Attack": 94,
       "Sp. Defense": 50,
       "Speed": 66
-    }
+    },
+"description":""
   },
   {
     "id": 415,
@@ -8493,7 +8907,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 42,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 416,
@@ -8514,7 +8929,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 102,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 417,
@@ -8534,7 +8950,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 90,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 418,
@@ -8554,7 +8971,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 30,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 419,
@@ -8574,7 +8992,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 50,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 420,
@@ -8594,7 +9013,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 53,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 421,
@@ -8614,7 +9034,8 @@
       "Sp. Attack": 87,
       "Sp. Defense": 78,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 422,
@@ -8634,7 +9055,8 @@
       "Sp. Attack": 57,
       "Sp. Defense": 62,
       "Speed": 34
-    }
+    },
+"description":""
   },
   {
     "id": 423,
@@ -8655,7 +9077,8 @@
       "Sp. Attack": 92,
       "Sp. Defense": 82,
       "Speed": 39
-    }
+    },
+"description":""
   },
   {
     "id": 424,
@@ -8675,7 +9098,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 66,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 425,
@@ -8696,7 +9120,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 44,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 426,
@@ -8717,7 +9142,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 54,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 427,
@@ -8737,7 +9163,8 @@
       "Sp. Attack": 44,
       "Sp. Defense": 56,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 428,
@@ -8757,7 +9184,8 @@
       "Sp. Attack": 54,
       "Sp. Defense": 96,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 429,
@@ -8777,7 +9205,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 105,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 430,
@@ -8798,7 +9227,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 52,
       "Speed": 71
-    }
+    },
+"description":""
   },
   {
     "id": 431,
@@ -8818,7 +9248,8 @@
       "Sp. Attack": 42,
       "Sp. Defense": 37,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 432,
@@ -8838,7 +9269,8 @@
       "Sp. Attack": 64,
       "Sp. Defense": 59,
       "Speed": 112
-    }
+    },
+"description":""
   },
   {
     "id": 433,
@@ -8858,7 +9290,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 50,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 434,
@@ -8879,7 +9312,8 @@
       "Sp. Attack": 41,
       "Sp. Defense": 41,
       "Speed": 74
-    }
+    },
+"description":""
   },
   {
     "id": 435,
@@ -8900,7 +9334,8 @@
       "Sp. Attack": 71,
       "Sp. Defense": 61,
       "Speed": 84
-    }
+    },
+"description":""
   },
   {
     "id": 436,
@@ -8921,7 +9356,8 @@
       "Sp. Attack": 24,
       "Sp. Defense": 86,
       "Speed": 23
-    }
+    },
+"description":""
   },
   {
     "id": 437,
@@ -8942,7 +9378,8 @@
       "Sp. Attack": 79,
       "Sp. Defense": 116,
       "Speed": 33
-    }
+    },
+"description":""
   },
   {
     "id": 438,
@@ -8962,7 +9399,8 @@
       "Sp. Attack": 10,
       "Sp. Defense": 45,
       "Speed": 10
-    }
+    },
+"description":""
   },
   {
     "id": 439,
@@ -8983,7 +9421,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 90,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 440,
@@ -9003,7 +9442,8 @@
       "Sp. Attack": 15,
       "Sp. Defense": 65,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 441,
@@ -9024,7 +9464,8 @@
       "Sp. Attack": 92,
       "Sp. Defense": 42,
       "Speed": 91
-    }
+    },
+"description":""
   },
   {
     "id": 442,
@@ -9045,7 +9486,8 @@
       "Sp. Attack": 92,
       "Sp. Defense": 108,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 443,
@@ -9066,7 +9508,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 45,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 444,
@@ -9087,7 +9530,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 55,
       "Speed": 82
-    }
+    },
+"description":""
   },
   {
     "id": 445,
@@ -9108,7 +9552,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 85,
       "Speed": 102
-    }
+    },
+"description":""
   },
   {
     "id": 446,
@@ -9128,7 +9573,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 85,
       "Speed": 5
-    }
+    },
+"description":""
   },
   {
     "id": 447,
@@ -9148,7 +9594,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 448,
@@ -9169,7 +9616,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 70,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 449,
@@ -9189,7 +9637,8 @@
       "Sp. Attack": 38,
       "Sp. Defense": 42,
       "Speed": 32
-    }
+    },
+"description":""
   },
   {
     "id": 450,
@@ -9209,7 +9658,8 @@
       "Sp. Attack": 68,
       "Sp. Defense": 72,
       "Speed": 47
-    }
+    },
+"description":""
   },
   {
     "id": 451,
@@ -9230,7 +9680,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 55,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 452,
@@ -9251,7 +9702,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 453,
@@ -9272,7 +9724,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 40,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 454,
@@ -9293,7 +9746,8 @@
       "Sp. Attack": 86,
       "Sp. Defense": 65,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 455,
@@ -9313,7 +9767,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 72,
       "Speed": 46
-    }
+    },
+"description":""
   },
   {
     "id": 456,
@@ -9333,7 +9788,8 @@
       "Sp. Attack": 49,
       "Sp. Defense": 61,
       "Speed": 66
-    }
+    },
+"description":""
   },
   {
     "id": 457,
@@ -9353,7 +9809,8 @@
       "Sp. Attack": 69,
       "Sp. Defense": 86,
       "Speed": 91
-    }
+    },
+"description":""
   },
   {
     "id": 458,
@@ -9374,7 +9831,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 120,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 459,
@@ -9395,7 +9853,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 60,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 460,
@@ -9416,7 +9875,8 @@
       "Sp. Attack": 92,
       "Sp. Defense": 85,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 461,
@@ -9437,7 +9897,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 85,
       "Speed": 125
-    }
+    },
+"description":""
   },
   {
     "id": 462,
@@ -9458,7 +9919,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 90,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 463,
@@ -9478,7 +9940,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 95,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 464,
@@ -9499,7 +9962,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 465,
@@ -9519,7 +9983,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 50,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 466,
@@ -9539,7 +10004,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 85,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 467,
@@ -9559,7 +10025,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 95,
       "Speed": 83
-    }
+    },
+"description":""
   },
   {
     "id": 468,
@@ -9580,7 +10047,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 115,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 469,
@@ -9601,7 +10069,8 @@
       "Sp. Attack": 116,
       "Sp. Defense": 56,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 470,
@@ -9621,7 +10090,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 65,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 471,
@@ -9641,7 +10111,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 95,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 472,
@@ -9662,7 +10133,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 75,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 473,
@@ -9683,7 +10155,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 60,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 474,
@@ -9703,7 +10176,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 75,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 475,
@@ -9724,7 +10198,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 115,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 476,
@@ -9745,7 +10220,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 150,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 477,
@@ -9765,7 +10241,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 135,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 478,
@@ -9786,7 +10263,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 70,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 479,
@@ -9807,7 +10285,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 77,
       "Speed": 91
-    }
+    },
+"description":""
   },
   {
     "id": 480,
@@ -9827,7 +10306,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 130,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 481,
@@ -9847,7 +10327,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 105,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 482,
@@ -9867,7 +10348,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 70,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 483,
@@ -9888,7 +10370,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 100,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 484,
@@ -9909,7 +10392,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 120,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 485,
@@ -9930,7 +10414,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 106,
       "Speed": 77
-    }
+    },
+"description":""
   },
   {
     "id": 486,
@@ -9950,7 +10435,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 110,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 487,
@@ -9971,7 +10457,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 120,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 488,
@@ -9991,7 +10478,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 130,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 489,
@@ -10011,7 +10499,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 490,
@@ -10031,7 +10520,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 491,
@@ -10051,7 +10541,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 90,
       "Speed": 125
-    }
+    },
+"description":""
   },
   {
     "id": 492,
@@ -10071,7 +10562,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 493,
@@ -10091,7 +10583,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 120,
       "Speed": 120
-    }
+    },
+"description":""
   },
   {
     "id": 494,
@@ -10112,7 +10605,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 495,
@@ -10132,7 +10626,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 63
-    }
+    },
+"description":""
   },
   {
     "id": 496,
@@ -10152,7 +10647,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 75,
       "Speed": 83
-    }
+    },
+"description":""
   },
   {
     "id": 497,
@@ -10172,7 +10668,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 95,
       "Speed": 113
-    }
+    },
+"description":""
   },
   {
     "id": 498,
@@ -10192,7 +10689,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 499,
@@ -10213,7 +10711,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 55,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 500,
@@ -10234,7 +10733,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 65,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 501,
@@ -10254,7 +10754,8 @@
       "Sp. Attack": 63,
       "Sp. Defense": 45,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 502,
@@ -10274,7 +10775,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 60,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 503,
@@ -10294,7 +10796,8 @@
       "Sp. Attack": 108,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 504,
@@ -10314,7 +10817,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 39,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 505,
@@ -10334,7 +10838,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 69,
       "Speed": 77
-    }
+    },
+"description":""
   },
   {
     "id": 506,
@@ -10354,7 +10859,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 45,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 507,
@@ -10374,7 +10880,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 65,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 508,
@@ -10394,7 +10901,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 90,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 509,
@@ -10414,7 +10922,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 37,
       "Speed": 66
-    }
+    },
+"description":""
   },
   {
     "id": 510,
@@ -10434,7 +10943,8 @@
       "Sp. Attack": 88,
       "Sp. Defense": 50,
       "Speed": 106
-    }
+    },
+"description":""
   },
   {
     "id": 511,
@@ -10454,7 +10964,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 48,
       "Speed": 64
-    }
+    },
+"description":""
   },
   {
     "id": 512,
@@ -10474,7 +10985,8 @@
       "Sp. Attack": 98,
       "Sp. Defense": 63,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 513,
@@ -10494,7 +11006,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 48,
       "Speed": 64
-    }
+    },
+"description":""
   },
   {
     "id": 514,
@@ -10514,7 +11027,8 @@
       "Sp. Attack": 98,
       "Sp. Defense": 63,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 515,
@@ -10534,7 +11048,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 48,
       "Speed": 64
-    }
+    },
+"description":""
   },
   {
     "id": 516,
@@ -10554,7 +11069,8 @@
       "Sp. Attack": 98,
       "Sp. Defense": 63,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 517,
@@ -10574,7 +11090,8 @@
       "Sp. Attack": 67,
       "Sp. Defense": 55,
       "Speed": 24
-    }
+    },
+"description":""
   },
   {
     "id": 518,
@@ -10594,7 +11111,8 @@
       "Sp. Attack": 107,
       "Sp. Defense": 95,
       "Speed": 29
-    }
+    },
+"description":""
   },
   {
     "id": 519,
@@ -10615,7 +11133,8 @@
       "Sp. Attack": 36,
       "Sp. Defense": 30,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 520,
@@ -10636,7 +11155,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 42,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 521,
@@ -10657,7 +11177,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 93
-    }
+    },
+"description":""
   },
   {
     "id": 522,
@@ -10677,7 +11198,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 32,
       "Speed": 76
-    }
+    },
+"description":""
   },
   {
     "id": 523,
@@ -10697,7 +11219,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 63,
       "Speed": 116
-    }
+    },
+"description":""
   },
   {
     "id": 524,
@@ -10717,7 +11240,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 525,
@@ -10737,7 +11261,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 40,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 526,
@@ -10757,7 +11282,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 527,
@@ -10778,7 +11304,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 43,
       "Speed": 72
-    }
+    },
+"description":""
   },
   {
     "id": 528,
@@ -10799,7 +11326,8 @@
       "Sp. Attack": 77,
       "Sp. Defense": 55,
       "Speed": 114
-    }
+    },
+"description":""
   },
   {
     "id": 529,
@@ -10819,7 +11347,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 45,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 530,
@@ -10840,7 +11369,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 65,
       "Speed": 88
-    }
+    },
+"description":""
   },
   {
     "id": 531,
@@ -10860,7 +11390,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 86,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 532,
@@ -10880,7 +11411,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 35,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 533,
@@ -10900,7 +11432,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 534,
@@ -10920,7 +11453,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 535,
@@ -10940,7 +11474,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 40,
       "Speed": 64
-    }
+    },
+"description":""
   },
   {
     "id": 536,
@@ -10961,7 +11496,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 69
-    }
+    },
+"description":""
   },
   {
     "id": 537,
@@ -10982,7 +11518,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 74
-    }
+    },
+"description":""
   },
   {
     "id": 538,
@@ -11002,7 +11539,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 85,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 539,
@@ -11022,7 +11560,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 75,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 540,
@@ -11043,7 +11582,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 60,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 541,
@@ -11064,7 +11604,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 80,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 542,
@@ -11085,7 +11626,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 92
-    }
+    },
+"description":""
   },
   {
     "id": 543,
@@ -11106,7 +11648,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 39,
       "Speed": 57
-    }
+    },
+"description":""
   },
   {
     "id": 544,
@@ -11127,7 +11670,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 79,
       "Speed": 47
-    }
+    },
+"description":""
   },
   {
     "id": 545,
@@ -11148,7 +11692,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 69,
       "Speed": 112
-    }
+    },
+"description":""
   },
   {
     "id": 546,
@@ -11169,7 +11714,8 @@
       "Sp. Attack": 37,
       "Sp. Defense": 50,
       "Speed": 66
-    }
+    },
+"description":""
   },
   {
     "id": 547,
@@ -11190,7 +11736,8 @@
       "Sp. Attack": 77,
       "Sp. Defense": 75,
       "Speed": 116
-    }
+    },
+"description":""
   },
   {
     "id": 548,
@@ -11210,7 +11757,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 50,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 549,
@@ -11230,7 +11778,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 75,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 550,
@@ -11250,7 +11799,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 55,
       "Speed": 98
-    }
+    },
+"description":""
   },
   {
     "id": 551,
@@ -11271,7 +11821,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 552,
@@ -11292,7 +11843,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 74
-    }
+    },
+"description":""
   },
   {
     "id": 553,
@@ -11313,7 +11865,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 92
-    }
+    },
+"description":""
   },
   {
     "id": 554,
@@ -11333,7 +11886,8 @@
       "Sp. Attack": 15,
       "Sp. Defense": 45,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 555,
@@ -11353,7 +11907,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 55,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 556,
@@ -11373,7 +11928,8 @@
       "Sp. Attack": 106,
       "Sp. Defense": 67,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 557,
@@ -11394,7 +11950,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 558,
@@ -11415,7 +11972,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 75,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 559,
@@ -11436,7 +11994,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 70,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 560,
@@ -11457,7 +12016,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 115,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 561,
@@ -11478,7 +12038,8 @@
       "Sp. Attack": 103,
       "Sp. Defense": 80,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 562,
@@ -11498,7 +12059,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 563,
@@ -11518,7 +12080,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 105,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 564,
@@ -11539,7 +12102,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 45,
       "Speed": 22
-    }
+    },
+"description":""
   },
   {
     "id": 565,
@@ -11560,7 +12124,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 65,
       "Speed": 32
-    }
+    },
+"description":""
   },
   {
     "id": 566,
@@ -11581,7 +12146,8 @@
       "Sp. Attack": 74,
       "Sp. Defense": 45,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 567,
@@ -11602,7 +12168,8 @@
       "Sp. Attack": 112,
       "Sp. Defense": 65,
       "Speed": 110
-    }
+    },
+"description":""
   },
   {
     "id": 568,
@@ -11622,7 +12189,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 62,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 569,
@@ -11642,7 +12210,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 82,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 570,
@@ -11662,7 +12231,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 40,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 571,
@@ -11682,7 +12252,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 60,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 572,
@@ -11702,7 +12273,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 573,
@@ -11722,7 +12294,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 60,
       "Speed": 115
-    }
+    },
+"description":""
   },
   {
     "id": 574,
@@ -11742,7 +12315,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 575,
@@ -11762,7 +12336,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 576,
@@ -11782,7 +12357,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 110,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 577,
@@ -11802,7 +12378,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 50,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 578,
@@ -11822,7 +12399,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 60,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 579,
@@ -11842,7 +12420,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 85,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 580,
@@ -11863,7 +12442,8 @@
       "Sp. Attack": 44,
       "Sp. Defense": 50,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 581,
@@ -11884,7 +12464,8 @@
       "Sp. Attack": 87,
       "Sp. Defense": 63,
       "Speed": 98
-    }
+    },
+"description":""
   },
   {
     "id": 582,
@@ -11904,7 +12485,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 60,
       "Speed": 44
-    }
+    },
+"description":""
   },
   {
     "id": 583,
@@ -11924,7 +12506,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 75,
       "Speed": 59
-    }
+    },
+"description":""
   },
   {
     "id": 584,
@@ -11944,7 +12527,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 95,
       "Speed": 79
-    }
+    },
+"description":""
   },
   {
     "id": 585,
@@ -11965,7 +12549,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 586,
@@ -11986,7 +12571,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 587,
@@ -12007,7 +12593,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 60,
       "Speed": 103
-    }
+    },
+"description":""
   },
   {
     "id": 588,
@@ -12027,7 +12614,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 45,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 589,
@@ -12048,7 +12636,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 105,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 590,
@@ -12069,7 +12658,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 591,
@@ -12090,7 +12680,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 80,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 592,
@@ -12111,7 +12702,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 85,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 593,
@@ -12132,7 +12724,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 105,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 594,
@@ -12152,7 +12745,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 45,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 595,
@@ -12173,7 +12767,8 @@
       "Sp. Attack": 57,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 596,
@@ -12194,7 +12789,8 @@
       "Sp. Attack": 97,
       "Sp. Defense": 60,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 597,
@@ -12215,7 +12811,8 @@
       "Sp. Attack": 24,
       "Sp. Defense": 86,
       "Speed": 10
-    }
+    },
+"description":""
   },
   {
     "id": 598,
@@ -12236,7 +12833,8 @@
       "Sp. Attack": 54,
       "Sp. Defense": 116,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 599,
@@ -12256,7 +12854,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 60,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 600,
@@ -12276,7 +12875,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 85,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 601,
@@ -12296,7 +12896,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 85,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 602,
@@ -12316,7 +12917,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 603,
@@ -12336,7 +12938,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 70,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 604,
@@ -12356,7 +12959,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 80,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 605,
@@ -12376,7 +12980,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 55,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 606,
@@ -12396,7 +13001,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 95,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 607,
@@ -12417,7 +13023,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 55,
       "Speed": 20
-    }
+    },
+"description":""
   },
   {
     "id": 608,
@@ -12438,7 +13045,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 60,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 609,
@@ -12459,7 +13067,8 @@
       "Sp. Attack": 145,
       "Sp. Defense": 90,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 610,
@@ -12479,7 +13088,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 40,
       "Speed": 57
-    }
+    },
+"description":""
   },
   {
     "id": 611,
@@ -12499,7 +13109,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 67
-    }
+    },
+"description":""
   },
   {
     "id": 612,
@@ -12519,7 +13130,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 613,
@@ -12539,7 +13151,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 40,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 614,
@@ -12559,7 +13172,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 80,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 615,
@@ -12579,7 +13193,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 135,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 616,
@@ -12599,7 +13214,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 65,
       "Speed": 25
-    }
+    },
+"description":""
   },
   {
     "id": 617,
@@ -12619,7 +13235,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 60,
       "Speed": 145
-    }
+    },
+"description":""
   },
   {
     "id": 618,
@@ -12640,7 +13257,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 99,
       "Speed": 32
-    }
+    },
+"description":""
   },
   {
     "id": 619,
@@ -12660,7 +13278,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 50,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 620,
@@ -12680,7 +13299,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 60,
       "Speed": 105
-    }
+    },
+"description":""
   },
   {
     "id": 621,
@@ -12700,7 +13320,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 90,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 622,
@@ -12721,7 +13342,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 50,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 623,
@@ -12742,7 +13364,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 80,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 624,
@@ -12763,7 +13386,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 625,
@@ -12784,7 +13408,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 626,
@@ -12804,7 +13429,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 95,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 627,
@@ -12825,7 +13451,8 @@
       "Sp. Attack": 37,
       "Sp. Defense": 50,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 628,
@@ -12846,7 +13473,8 @@
       "Sp. Attack": 57,
       "Sp. Defense": 75,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 629,
@@ -12867,7 +13495,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 65,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 630,
@@ -12888,7 +13517,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 95,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 631,
@@ -12908,7 +13538,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 66,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 632,
@@ -12929,7 +13560,8 @@
       "Sp. Attack": 48,
       "Sp. Defense": 48,
       "Speed": 109
-    }
+    },
+"description":""
   },
   {
     "id": 633,
@@ -12950,7 +13582,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 50,
       "Speed": 38
-    }
+    },
+"description":""
   },
   {
     "id": 634,
@@ -12971,7 +13604,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 635,
@@ -12992,7 +13626,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 90,
       "Speed": 98
-    }
+    },
+"description":""
   },
   {
     "id": 636,
@@ -13013,7 +13648,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 55,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 637,
@@ -13034,7 +13670,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 105,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 638,
@@ -13055,7 +13692,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 72,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 639,
@@ -13076,7 +13714,8 @@
       "Sp. Attack": 72,
       "Sp. Defense": 90,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 640,
@@ -13097,7 +13736,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 129,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 641,
@@ -13117,7 +13757,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 80,
       "Speed": 111
-    }
+    },
+"description":""
   },
   {
     "id": 642,
@@ -13138,7 +13779,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 80,
       "Speed": 111
-    }
+    },
+"description":""
   },
   {
     "id": 643,
@@ -13159,7 +13801,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 120,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 644,
@@ -13180,7 +13823,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 100,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 645,
@@ -13201,7 +13845,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 80,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 646,
@@ -13222,7 +13867,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 90,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 647,
@@ -13243,7 +13889,8 @@
       "Sp. Attack": 129,
       "Sp. Defense": 90,
       "Speed": 108
-    }
+    },
+"description":""
   },
   {
     "id": 648,
@@ -13264,7 +13911,8 @@
       "Sp. Attack": 128,
       "Sp. Defense": 128,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 649,
@@ -13285,7 +13933,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 95,
       "Speed": 99
-    }
+    },
+"description":""
   },
   {
     "id": 650,
@@ -13305,7 +13954,8 @@
       "Sp. Attack": 48,
       "Sp. Defense": 45,
       "Speed": 38
-    }
+    },
+"description":""
   },
   {
     "id": 651,
@@ -13325,7 +13975,8 @@
       "Sp. Attack": 56,
       "Sp. Defense": 58,
       "Speed": 57
-    }
+    },
+"description":""
   },
   {
     "id": 652,
@@ -13346,7 +13997,8 @@
       "Sp. Attack": 74,
       "Sp. Defense": 75,
       "Speed": 64
-    }
+    },
+"description":""
   },
   {
     "id": 653,
@@ -13366,7 +14018,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 60,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 654,
@@ -13386,7 +14039,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 70,
       "Speed": 73
-    }
+    },
+"description":""
   },
   {
     "id": 655,
@@ -13407,7 +14061,8 @@
       "Sp. Attack": 114,
       "Sp. Defense": 100,
       "Speed": 104
-    }
+    },
+"description":""
   },
   {
     "id": 656,
@@ -13427,7 +14082,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 44,
       "Speed": 71
-    }
+    },
+"description":""
   },
   {
     "id": 657,
@@ -13447,7 +14103,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 56,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 658,
@@ -13468,7 +14125,8 @@
       "Sp. Attack": 103,
       "Sp. Defense": 71,
       "Speed": 122
-    }
+    },
+"description":""
   },
   {
     "id": 659,
@@ -13488,7 +14146,8 @@
       "Sp. Attack": 32,
       "Sp. Defense": 36,
       "Speed": 57
-    }
+    },
+"description":""
   },
   {
     "id": 660,
@@ -13509,7 +14168,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 77,
       "Speed": 78
-    }
+    },
+"description":""
   },
   {
     "id": 661,
@@ -13530,7 +14190,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 38,
       "Speed": 62
-    }
+    },
+"description":""
   },
   {
     "id": 662,
@@ -13551,7 +14212,8 @@
       "Sp. Attack": 56,
       "Sp. Defense": 52,
       "Speed": 84
-    }
+    },
+"description":""
   },
   {
     "id": 663,
@@ -13572,7 +14234,8 @@
       "Sp. Attack": 74,
       "Sp. Defense": 69,
       "Speed": 126
-    }
+    },
+"description":""
   },
   {
     "id": 664,
@@ -13592,7 +14255,8 @@
       "Sp. Attack": 27,
       "Sp. Defense": 25,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 665,
@@ -13612,7 +14276,8 @@
       "Sp. Attack": 27,
       "Sp. Defense": 30,
       "Speed": 29
-    }
+    },
+"description":""
   },
   {
     "id": 666,
@@ -13633,7 +14298,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 50,
       "Speed": 89
-    }
+    },
+"description":""
   },
   {
     "id": 667,
@@ -13654,7 +14320,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 54,
       "Speed": 72
-    }
+    },
+"description":""
   },
   {
     "id": 668,
@@ -13675,7 +14342,8 @@
       "Sp. Attack": 109,
       "Sp. Defense": 66,
       "Speed": 106
-    }
+    },
+"description":""
   },
   {
     "id": 669,
@@ -13695,7 +14363,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 79,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 670,
@@ -13715,7 +14384,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 98,
       "Speed": 52
-    }
+    },
+"description":""
   },
   {
     "id": 671,
@@ -13735,7 +14405,8 @@
       "Sp. Attack": 112,
       "Sp. Defense": 154,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 672,
@@ -13755,7 +14426,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 57,
       "Speed": 52
-    }
+    },
+"description":""
   },
   {
     "id": 673,
@@ -13775,7 +14447,8 @@
       "Sp. Attack": 97,
       "Sp. Defense": 81,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 674,
@@ -13795,7 +14468,8 @@
       "Sp. Attack": 46,
       "Sp. Defense": 48,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 675,
@@ -13816,7 +14490,8 @@
       "Sp. Attack": 69,
       "Sp. Defense": 71,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 676,
@@ -13836,7 +14511,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 90,
       "Speed": 102
-    }
+    },
+"description":""
   },
   {
     "id": 677,
@@ -13856,7 +14532,8 @@
       "Sp. Attack": 63,
       "Sp. Defense": 60,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 678,
@@ -13876,7 +14553,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 81,
       "Speed": 104
-    }
+    },
+"description":""
   },
   {
     "id": 679,
@@ -13897,7 +14575,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 37,
       "Speed": 28
-    }
+    },
+"description":""
   },
   {
     "id": 680,
@@ -13918,7 +14597,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 49,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 681,
@@ -13939,7 +14619,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 150,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 682,
@@ -13959,7 +14640,8 @@
       "Sp. Attack": 63,
       "Sp. Defense": 65,
       "Speed": 23
-    }
+    },
+"description":""
   },
   {
     "id": 683,
@@ -13979,7 +14661,8 @@
       "Sp. Attack": 99,
       "Sp. Defense": 89,
       "Speed": 29
-    }
+    },
+"description":""
   },
   {
     "id": 684,
@@ -13999,7 +14682,8 @@
       "Sp. Attack": 59,
       "Sp. Defense": 57,
       "Speed": 49
-    }
+    },
+"description":""
   },
   {
     "id": 685,
@@ -14019,7 +14703,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 72
-    }
+    },
+"description":""
   },
   {
     "id": 686,
@@ -14040,7 +14725,8 @@
       "Sp. Attack": 37,
       "Sp. Defense": 46,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 687,
@@ -14061,7 +14747,8 @@
       "Sp. Attack": 68,
       "Sp. Defense": 75,
       "Speed": 73
-    }
+    },
+"description":""
   },
   {
     "id": 688,
@@ -14082,7 +14769,8 @@
       "Sp. Attack": 39,
       "Sp. Defense": 56,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 689,
@@ -14103,7 +14791,8 @@
       "Sp. Attack": 54,
       "Sp. Defense": 86,
       "Speed": 68
-    }
+    },
+"description":""
   },
   {
     "id": 690,
@@ -14124,7 +14813,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 691,
@@ -14145,7 +14835,8 @@
       "Sp. Attack": 97,
       "Sp. Defense": 123,
       "Speed": 44
-    }
+    },
+"description":""
   },
   {
     "id": 692,
@@ -14165,7 +14856,8 @@
       "Sp. Attack": 58,
       "Sp. Defense": 63,
       "Speed": 44
-    }
+    },
+"description":""
   },
   {
     "id": 693,
@@ -14185,7 +14877,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 89,
       "Speed": 59
-    }
+    },
+"description":""
   },
   {
     "id": 694,
@@ -14206,7 +14899,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 43,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 695,
@@ -14227,7 +14921,8 @@
       "Sp. Attack": 109,
       "Sp. Defense": 94,
       "Speed": 109
-    }
+    },
+"description":""
   },
   {
     "id": 696,
@@ -14248,7 +14943,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 48
-    }
+    },
+"description":""
   },
   {
     "id": 697,
@@ -14269,7 +14965,8 @@
       "Sp. Attack": 69,
       "Sp. Defense": 59,
       "Speed": 71
-    }
+    },
+"description":""
   },
   {
     "id": 698,
@@ -14290,7 +14987,8 @@
       "Sp. Attack": 67,
       "Sp. Defense": 63,
       "Speed": 46
-    }
+    },
+"description":""
   },
   {
     "id": 699,
@@ -14311,7 +15009,8 @@
       "Sp. Attack": 99,
       "Sp. Defense": 92,
       "Speed": 58
-    }
+    },
+"description":""
   },
   {
     "id": 700,
@@ -14331,7 +15030,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 130,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 701,
@@ -14352,7 +15052,8 @@
       "Sp. Attack": 74,
       "Sp. Defense": 63,
       "Speed": 118
-    }
+    },
+"description":""
   },
   {
     "id": 702,
@@ -14373,7 +15074,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 67,
       "Speed": 101
-    }
+    },
+"description":""
   },
   {
     "id": 703,
@@ -14394,7 +15096,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 150,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 704,
@@ -14414,7 +15117,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 75,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 705,
@@ -14434,7 +15138,8 @@
       "Sp. Attack": 83,
       "Sp. Defense": 113,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 706,
@@ -14454,7 +15159,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 150,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 707,
@@ -14475,7 +15181,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 87,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 708,
@@ -14496,7 +15203,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 60,
       "Speed": 38
-    }
+    },
+"description":""
   },
   {
     "id": 709,
@@ -14517,7 +15225,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 82,
       "Speed": 56
-    }
+    },
+"description":""
   },
   {
     "id": 710,
@@ -14538,7 +15247,8 @@
       "Sp. Attack": 44,
       "Sp. Defense": 55,
       "Speed": 41
-    }
+    },
+"description":""
   },
   {
     "id": 711,
@@ -14559,7 +15269,8 @@
       "Sp. Attack": 58,
       "Sp. Defense": 75,
       "Speed": 54
-    }
+    },
+"description":""
   },
   {
     "id": 712,
@@ -14579,7 +15290,8 @@
       "Sp. Attack": 32,
       "Sp. Defense": 35,
       "Speed": 28
-    }
+    },
+"description":""
   },
   {
     "id": 713,
@@ -14599,7 +15311,8 @@
       "Sp. Attack": 44,
       "Sp. Defense": 46,
       "Speed": 28
-    }
+    },
+"description":""
   },
   {
     "id": 714,
@@ -14620,7 +15333,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 40,
       "Speed": 55
-    }
+    },
+"description":""
   },
   {
     "id": 715,
@@ -14641,7 +15355,8 @@
       "Sp. Attack": 97,
       "Sp. Defense": 80,
       "Speed": 123
-    }
+    },
+"description":""
   },
   {
     "id": 716,
@@ -14661,7 +15376,8 @@
       "Sp. Attack": 131,
       "Sp. Defense": 98,
       "Speed": 99
-    }
+    },
+"description":""
   },
   {
     "id": 717,
@@ -14682,7 +15398,8 @@
       "Sp. Attack": 131,
       "Sp. Defense": 98,
       "Speed": 99
-    }
+    },
+"description":""
   },
   {
     "id": 718,
@@ -14703,7 +15420,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 95,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 719,
@@ -14724,7 +15442,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 150,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 720,
@@ -14745,7 +15464,8 @@
       "Sp. Attack": 150,
       "Sp. Defense": 130,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 721,
@@ -14766,7 +15486,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 90,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 722,
@@ -14787,7 +15508,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 723,
@@ -14808,7 +15530,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 52
-    }
+    },
+"description":""
   },
   {
     "id": 724,
@@ -14829,7 +15552,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 725,
@@ -14849,7 +15573,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 40,
       "Speed": 70
-    }
+    },
+"description":""
   },
   {
     "id": 726,
@@ -14869,7 +15594,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 50,
       "Speed": 90
-    }
+    },
+"description":""
   },
   {
     "id": 727,
@@ -14890,7 +15616,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 90,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 728,
@@ -14910,7 +15637,8 @@
       "Sp. Attack": 66,
       "Sp. Defense": 56,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 729,
@@ -14930,7 +15658,8 @@
       "Sp. Attack": 91,
       "Sp. Defense": 81,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 730,
@@ -14951,7 +15680,8 @@
       "Sp. Attack": 126,
       "Sp. Defense": 116,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 731,
@@ -14972,7 +15702,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 732,
@@ -14993,7 +15724,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 733,
@@ -15014,7 +15746,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 75,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 734,
@@ -15034,7 +15767,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 735,
@@ -15054,7 +15788,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 60,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 736,
@@ -15074,7 +15809,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 45,
       "Speed": 46
-    }
+    },
+"description":""
   },
   {
     "id": 737,
@@ -15095,7 +15831,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 75,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 738,
@@ -15116,7 +15853,8 @@
       "Sp. Attack": 145,
       "Sp. Defense": 75,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 739,
@@ -15136,7 +15874,8 @@
       "Sp. Attack": 42,
       "Sp. Defense": 47,
       "Speed": 63
-    }
+    },
+"description":""
   },
   {
     "id": 740,
@@ -15157,7 +15896,8 @@
       "Sp. Attack": 62,
       "Sp. Defense": 67,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 741,
@@ -15178,7 +15918,8 @@
       "Sp. Attack": 98,
       "Sp. Defense": 70,
       "Speed": 93
-    }
+    },
+"description":""
   },
   {
     "id": 742,
@@ -15199,7 +15940,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 40,
       "Speed": 84
-    }
+    },
+"description":""
   },
   {
     "id": 743,
@@ -15220,7 +15962,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 70,
       "Speed": 124
-    }
+    },
+"description":""
   },
   {
     "id": 744,
@@ -15240,7 +15983,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 40,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 745,
@@ -15260,7 +16004,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 112
-    }
+    },
+"description":""
   },
   {
     "id": 746,
@@ -15280,7 +16025,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 747,
@@ -15301,7 +16047,8 @@
       "Sp. Attack": 43,
       "Sp. Defense": 52,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 748,
@@ -15322,7 +16069,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 142,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 749,
@@ -15342,7 +16090,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 750,
@@ -15362,7 +16111,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 85,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 751,
@@ -15383,7 +16133,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 72,
       "Speed": 27
-    }
+    },
+"description":""
   },
   {
     "id": 752,
@@ -15404,7 +16155,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 132,
       "Speed": 42
-    }
+    },
+"description":""
   },
   {
     "id": 753,
@@ -15424,7 +16176,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 35,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 754,
@@ -15444,7 +16197,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 90,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 755,
@@ -15465,7 +16219,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 75,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 756,
@@ -15486,7 +16241,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 100,
       "Speed": 30
-    }
+    },
+"description":""
   },
   {
     "id": 757,
@@ -15507,7 +16263,8 @@
       "Sp. Attack": 71,
       "Sp. Defense": 40,
       "Speed": 77
-    }
+    },
+"description":""
   },
   {
     "id": 758,
@@ -15528,7 +16285,8 @@
       "Sp. Attack": 111,
       "Sp. Defense": 60,
       "Speed": 117
-    }
+    },
+"description":""
   },
   {
     "id": 759,
@@ -15549,7 +16307,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 50,
       "Speed": 50
-    }
+    },
+"description":""
   },
   {
     "id": 760,
@@ -15570,7 +16329,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 60,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 761,
@@ -15590,7 +16350,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 38,
       "Speed": 32
-    }
+    },
+"description":""
   },
   {
     "id": 762,
@@ -15610,7 +16371,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 48,
       "Speed": 62
-    }
+    },
+"description":""
   },
   {
     "id": 763,
@@ -15630,7 +16392,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 98,
       "Speed": 72
-    }
+    },
+"description":""
   },
   {
     "id": 764,
@@ -15650,7 +16413,8 @@
       "Sp. Attack": 82,
       "Sp. Defense": 110,
       "Speed": 100
-    }
+    },
+"description":""
   },
   {
     "id": 765,
@@ -15671,7 +16435,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 110,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 766,
@@ -15691,7 +16456,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 60,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 767,
@@ -15712,7 +16478,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 80
-    }
+    },
+"description":""
   },
   {
     "id": 768,
@@ -15733,7 +16500,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 90,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 769,
@@ -15754,7 +16522,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 45,
       "Speed": 15
-    }
+    },
+"description":""
   },
   {
     "id": 770,
@@ -15775,7 +16544,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 75,
       "Speed": 35
-    }
+    },
+"description":""
   },
   {
     "id": 771,
@@ -15795,7 +16565,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 130,
       "Speed": 5
-    }
+    },
+"description":""
   },
   {
     "id": 772,
@@ -15815,7 +16586,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 95,
       "Speed": 59
-    }
+    },
+"description":""
   },
   {
     "id": 773,
@@ -15835,7 +16607,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 95,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 774,
@@ -15856,7 +16629,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 100,
       "Speed": 60
-    }
+    },
+"description":""
   },
   {
     "id": 775,
@@ -15876,7 +16650,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 95,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 776,
@@ -15897,7 +16672,8 @@
       "Sp. Attack": 91,
       "Sp. Defense": 85,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 777,
@@ -15918,7 +16694,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 73,
       "Speed": 96
-    }
+    },
+"description":""
   },
   {
     "id": 778,
@@ -15939,7 +16716,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 105,
       "Speed": 96
-    }
+    },
+"description":""
   },
   {
     "id": 779,
@@ -15960,7 +16738,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 70,
       "Speed": 92
-    }
+    },
+"description":""
   },
   {
     "id": 780,
@@ -15981,7 +16760,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 91,
       "Speed": 36
-    }
+    },
+"description":""
   },
   {
     "id": 781,
@@ -16002,7 +16782,8 @@
       "Sp. Attack": 86,
       "Sp. Defense": 90,
       "Speed": 40
-    }
+    },
+"description":""
   },
   {
     "id": 782,
@@ -16022,7 +16803,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 45
-    }
+    },
+"description":""
   },
   {
     "id": 783,
@@ -16043,7 +16825,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 70,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 784,
@@ -16064,7 +16847,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 105,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 785,
@@ -16085,7 +16869,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 75,
       "Speed": 130
-    }
+    },
+"description":""
   },
   {
     "id": 786,
@@ -16106,7 +16891,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 115,
       "Speed": 95
-    }
+    },
+"description":""
   },
   {
     "id": 787,
@@ -16127,7 +16913,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 95,
       "Speed": 75
-    }
+    },
+"description":""
   },
   {
     "id": 788,
@@ -16148,7 +16935,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 130,
       "Speed": 85
-    }
+    },
+"description":""
   },
   {
     "id": 789,
@@ -16168,7 +16956,8 @@
       "Sp. Attack": 29,
       "Sp. Defense": 31,
       "Speed": 37
-    }
+    },
+"description":""
   },
   {
     "id": 790,
@@ -16188,7 +16977,8 @@
       "Sp. Attack": 29,
       "Sp. Defense": 131,
       "Speed": 37
-    }
+    },
+"description":""
   },
   {
     "id": 791,
@@ -16209,7 +16999,8 @@
       "Sp. Attack": 113,
       "Sp. Defense": 89,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 792,
@@ -16230,7 +17021,8 @@
       "Sp. Attack": 137,
       "Sp. Defense": 107,
       "Speed": 97
-    }
+    },
+"description":""
   },
   {
     "id": 793,
@@ -16251,7 +17043,8 @@
       "Sp. Attack": 127,
       "Sp. Defense": 131,
       "Speed": 103
-    }
+    },
+"description":""
   },
   {
     "id": 794,
@@ -16272,7 +17065,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 53,
       "Speed": 79
-    }
+    },
+"description":""
   },
   {
     "id": 795,
@@ -16293,7 +17087,8 @@
       "Sp. Attack": 137,
       "Sp. Defense": 37,
       "Speed": 151
-    }
+    },
+"description":""
   },
   {
     "id": 796,
@@ -16313,7 +17108,8 @@
       "Sp. Attack": 173,
       "Sp. Defense": 71,
       "Speed": 83
-    }
+    },
+"description":""
   },
   {
     "id": 797,
@@ -16334,7 +17130,8 @@
       "Sp. Attack": 107,
       "Sp. Defense": 101,
       "Speed": 61
-    }
+    },
+"description":""
   },
   {
     "id": 798,
@@ -16355,7 +17152,8 @@
       "Sp. Attack": 59,
       "Sp. Defense": 31,
       "Speed": 109
-    }
+    },
+"description":""
   },
   {
     "id": 799,
@@ -16376,7 +17174,8 @@
       "Sp. Attack": 97,
       "Sp. Defense": 53,
       "Speed": 43
-    }
+    },
+"description":""
   },
   {
     "id": 800,
@@ -16396,7 +17195,8 @@
       "Sp. Attack": 127,
       "Sp. Defense": 89,
       "Speed": 79
-    }
+    },
+"description":""
   },
   {
     "id": 801,
@@ -16417,7 +17217,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 115,
       "Speed": 65
-    }
+    },
+"description":""
   },
   {
     "id": 802,
@@ -16438,7 +17239,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 90,
       "Speed": 125
-    }
+    },
+"description":""
   },
   {
     "id": 803,
@@ -16458,7 +17260,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 67,
       "Speed": 73
-    }
+    },
+"description":""
   },
   {
     "id": 804,
@@ -16479,7 +17282,8 @@
       "Sp. Attack": 127,
       "Sp. Defense": 73,
       "Speed": 121
-    }
+    },
+"description":""
   },
   {
     "id": 805,
@@ -16500,7 +17304,8 @@
       "Sp. Attack": 53,
       "Sp. Defense": 101,
       "Speed": 13
-    }
+    },
+"description":""
   },
   {
     "id": 806,
@@ -16521,7 +17326,8 @@
       "Sp. Attack": 151,
       "Sp. Defense": 79,
       "Speed": 107
-    }
+    },
+"description":""
   },
   {
     "id": 807,
@@ -16541,7 +17347,8 @@
       "Sp. Attack": 102,
       "Sp. Defense": 80,
       "Speed": 143
-    }
+    },
+"description":""
   },
   {
     "id": 808,
@@ -16561,7 +17368,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 35,
       "Speed": 34
-    }
+    },
+"description":""
   },
   {
     "id": 809,
@@ -16581,6 +17389,7 @@
       "Sp. Attack": 80,
       "Sp. Defense": 65,
       "Speed": 34
-    }
+    },
+"description":""
   }
 ]
