@@ -1,18 +1,32 @@
 import pokedex from './pokedex.json' assert {type: 'json'}
 const max = pokedex.length
-let current = 36
+let current = max
 function show() {
     let pokemon = pokedex.find(p => p.id == current)
-    const screen=document.getElementById("screen")
-    const url = (current < 100 ? ( current < 10 ? "00" : "0" ) : "") + current
-    screen.innerHTML="<img src='./thumbnails/" + url + ".png' />"
-    const name=document.getElementById("name")
-    name.innerHTML=pokemon.name.english
-    const description=document.getElementById("description")
-    description.innerHTML=pokemon.type[0]
+    const screen = document.getElementById("screen")
+    const url = (current < 100 ? (current < 10 ? "00" : "0") : "") + current
+    screen.innerHTML = "<img src='./thumbnails/" + url + ".png' />"
+    const name = document.getElementById("name")
+    name.innerHTML = pokemon.name.english
+    const description = document.getElementById("description")
+    description.innerHTML = pokemon.type.join('-')
 }
-function modify() {
-    const div=document.getElementById("description")
+function left() {
+    current = current - 1
+    if (current==0) {
+        current=max
+    }
+    show()
 }
-show()
-mofidy()
+function right() {
+    current = current + 1
+    if (current==(max+1)) {
+        current=1
+    }
+    show()
+}
+document.body.onload=function () {
+    show()
+    document.getElementById("buttonLeft").addEventListener("click",left);
+    document.getElementById("buttonRight").addEventListener("click",right)
+}

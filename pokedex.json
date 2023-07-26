@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 1,
     "name": {
       "english": "Bulbasaur",
@@ -18,7 +19,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 2,
@@ -40,7 +41,7 @@
       "Sp. Defense": 80,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 3,
@@ -62,7 +63,7 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 4,
@@ -83,7 +84,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 5,
@@ -104,7 +105,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 6,
@@ -126,7 +127,7 @@
       "Sp. Defense": 85,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 7,
@@ -147,7 +148,7 @@
       "Sp. Defense": 64,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 8,
@@ -168,7 +169,7 @@
       "Sp. Defense": 80,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 9,
@@ -189,7 +190,7 @@
       "Sp. Defense": 105,
       "Speed": 78
     },
-"description":""
+    "description": ""
   },
   {
     "id": 10,
@@ -210,7 +211,7 @@
       "Sp. Defense": 20,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 11,
@@ -231,7 +232,7 @@
       "Sp. Defense": 25,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 12,
@@ -253,7 +254,7 @@
       "Sp. Defense": 80,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 13,
@@ -275,7 +276,7 @@
       "Sp. Defense": 20,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 14,
@@ -297,7 +298,7 @@
       "Sp. Defense": 25,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 15,
@@ -319,7 +320,7 @@
       "Sp. Defense": 80,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 16,
@@ -341,7 +342,7 @@
       "Sp. Defense": 35,
       "Speed": 56
     },
-"description":""
+    "description": ""
   },
   {
     "id": 17,
@@ -363,7 +364,7 @@
       "Sp. Defense": 50,
       "Speed": 71
     },
-"description":""
+    "description": ""
   },
   {
     "id": 18,
@@ -385,7 +386,7 @@
       "Sp. Defense": 70,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 19,
@@ -406,7 +407,7 @@
       "Sp. Defense": 35,
       "Speed": 72
     },
-"description":""
+    "description": ""
   },
   {
     "id": 20,
@@ -427,7 +428,7 @@
       "Sp. Defense": 70,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 21,
@@ -449,7 +450,7 @@
       "Sp. Defense": 31,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 22,
@@ -471,7 +472,7 @@
       "Sp. Defense": 61,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 23,
@@ -492,7 +493,7 @@
       "Sp. Defense": 54,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 24,
@@ -513,7 +514,7 @@
       "Sp. Defense": 79,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 25,
@@ -534,7 +535,7 @@
       "Sp. Defense": 50,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 26,
@@ -555,7 +556,7 @@
       "Sp. Defense": 80,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 27,
@@ -576,7 +577,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 28,
@@ -597,7 +598,7 @@
       "Sp. Defense": 55,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 29,
@@ -618,7 +619,7 @@
       "Sp. Defense": 40,
       "Speed": 41
     },
-"description":""
+    "description": ""
   },
   {
     "id": 30,
@@ -639,7 +640,7 @@
       "Sp. Defense": 55,
       "Speed": 56
     },
-"description":""
+    "description": ""
   },
   {
     "id": 31,
@@ -661,7 +662,7 @@
       "Sp. Defense": 85,
       "Speed": 76
     },
-"description":""
+    "description": ""
   },
   {
     "id": 32,
@@ -682,7 +683,7 @@
       "Sp. Defense": 40,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 33,
@@ -703,7 +704,7 @@
       "Sp. Defense": 55,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 34,
@@ -725,7 +726,7 @@
       "Sp. Defense": 75,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 35,
@@ -746,7 +747,7 @@
       "Sp. Defense": 65,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 36,
@@ -767,7 +768,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 37,
@@ -788,7 +789,7 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 38,
@@ -809,7 +810,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 39,
@@ -831,7 +832,7 @@
       "Sp. Defense": 25,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 40,
@@ -853,7 +854,7 @@
       "Sp. Defense": 50,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 41,
@@ -875,7 +876,7 @@
       "Sp. Defense": 40,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 42,
@@ -897,7 +898,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 43,
@@ -919,7 +920,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 44,
@@ -941,7 +942,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 45,
@@ -963,7 +964,7 @@
       "Sp. Defense": 90,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 46,
@@ -985,7 +986,7 @@
       "Sp. Defense": 55,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 47,
@@ -1007,7 +1008,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 48,
@@ -1029,7 +1030,7 @@
       "Sp. Defense": 55,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 49,
@@ -1051,7 +1052,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 50,
@@ -1072,7 +1073,7 @@
       "Sp. Defense": 45,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 51,
@@ -1093,7 +1094,7 @@
       "Sp. Defense": 70,
       "Speed": 120
     },
-"description":""
+    "description": ""
   },
   {
     "id": 52,
@@ -1114,7 +1115,7 @@
       "Sp. Defense": 40,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 53,
@@ -1135,7 +1136,7 @@
       "Sp. Defense": 65,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 54,
@@ -1156,7 +1157,7 @@
       "Sp. Defense": 50,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 55,
@@ -1177,7 +1178,7 @@
       "Sp. Defense": 80,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 56,
@@ -1198,7 +1199,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 57,
@@ -1219,7 +1220,7 @@
       "Sp. Defense": 70,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 58,
@@ -1240,7 +1241,7 @@
       "Sp. Defense": 50,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 59,
@@ -1261,7 +1262,7 @@
       "Sp. Defense": 80,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 60,
@@ -1282,7 +1283,7 @@
       "Sp. Defense": 40,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 61,
@@ -1303,7 +1304,7 @@
       "Sp. Defense": 50,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 62,
@@ -1325,7 +1326,7 @@
       "Sp. Defense": 90,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 63,
@@ -1346,7 +1347,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 64,
@@ -1367,7 +1368,7 @@
       "Sp. Defense": 70,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 65,
@@ -1388,7 +1389,7 @@
       "Sp. Defense": 95,
       "Speed": 120
     },
-"description":""
+    "description": ""
   },
   {
     "id": 66,
@@ -1409,7 +1410,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 67,
@@ -1430,7 +1431,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 68,
@@ -1451,7 +1452,7 @@
       "Sp. Defense": 85,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 69,
@@ -1473,7 +1474,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 70,
@@ -1495,7 +1496,7 @@
       "Sp. Defense": 45,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 71,
@@ -1517,7 +1518,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 72,
@@ -1539,7 +1540,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 73,
@@ -1561,7 +1562,7 @@
       "Sp. Defense": 120,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 74,
@@ -1583,7 +1584,7 @@
       "Sp. Defense": 30,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 75,
@@ -1605,7 +1606,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 76,
@@ -1627,7 +1628,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 77,
@@ -1648,7 +1649,7 @@
       "Sp. Defense": 65,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 78,
@@ -1669,7 +1670,7 @@
       "Sp. Defense": 80,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 79,
@@ -1691,7 +1692,7 @@
       "Sp. Defense": 40,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 80,
@@ -1713,7 +1714,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 81,
@@ -1735,7 +1736,7 @@
       "Sp. Defense": 55,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 82,
@@ -1757,7 +1758,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 83,
@@ -1779,7 +1780,7 @@
       "Sp. Defense": 62,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 84,
@@ -1801,7 +1802,7 @@
       "Sp. Defense": 35,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 85,
@@ -1823,7 +1824,7 @@
       "Sp. Defense": 60,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 86,
@@ -1844,7 +1845,7 @@
       "Sp. Defense": 70,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 87,
@@ -1866,7 +1867,7 @@
       "Sp. Defense": 95,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 88,
@@ -1887,7 +1888,7 @@
       "Sp. Defense": 50,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 89,
@@ -1908,7 +1909,7 @@
       "Sp. Defense": 100,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 90,
@@ -1929,7 +1930,7 @@
       "Sp. Defense": 25,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 91,
@@ -1951,7 +1952,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 92,
@@ -1973,7 +1974,7 @@
       "Sp. Defense": 35,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 93,
@@ -1995,7 +1996,7 @@
       "Sp. Defense": 55,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 94,
@@ -2017,7 +2018,7 @@
       "Sp. Defense": 75,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 95,
@@ -2039,7 +2040,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 96,
@@ -2060,7 +2061,7 @@
       "Sp. Defense": 90,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 97,
@@ -2081,7 +2082,7 @@
       "Sp. Defense": 115,
       "Speed": 67
     },
-"description":""
+    "description": ""
   },
   {
     "id": 98,
@@ -2102,7 +2103,7 @@
       "Sp. Defense": 25,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 99,
@@ -2123,7 +2124,7 @@
       "Sp. Defense": 50,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 100,
@@ -2144,7 +2145,7 @@
       "Sp. Defense": 55,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 101,
@@ -2165,7 +2166,7 @@
       "Sp. Defense": 80,
       "Speed": 150
     },
-"description":""
+    "description": ""
   },
   {
     "id": 102,
@@ -2187,7 +2188,7 @@
       "Sp. Defense": 45,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 103,
@@ -2209,7 +2210,7 @@
       "Sp. Defense": 75,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 104,
@@ -2230,7 +2231,7 @@
       "Sp. Defense": 50,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 105,
@@ -2251,7 +2252,7 @@
       "Sp. Defense": 80,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 106,
@@ -2272,7 +2273,7 @@
       "Sp. Defense": 110,
       "Speed": 87
     },
-"description":""
+    "description": ""
   },
   {
     "id": 107,
@@ -2293,7 +2294,7 @@
       "Sp. Defense": 110,
       "Speed": 76
     },
-"description":""
+    "description": ""
   },
   {
     "id": 108,
@@ -2314,7 +2315,7 @@
       "Sp. Defense": 75,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 109,
@@ -2335,7 +2336,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 110,
@@ -2356,7 +2357,7 @@
       "Sp. Defense": 70,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 111,
@@ -2378,7 +2379,7 @@
       "Sp. Defense": 30,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 112,
@@ -2400,7 +2401,7 @@
       "Sp. Defense": 45,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 113,
@@ -2421,7 +2422,7 @@
       "Sp. Defense": 105,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 114,
@@ -2442,7 +2443,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 115,
@@ -2463,7 +2464,7 @@
       "Sp. Defense": 80,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 116,
@@ -2484,7 +2485,7 @@
       "Sp. Defense": 25,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 117,
@@ -2505,7 +2506,7 @@
       "Sp. Defense": 45,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 118,
@@ -2526,7 +2527,7 @@
       "Sp. Defense": 50,
       "Speed": 63
     },
-"description":""
+    "description": ""
   },
   {
     "id": 119,
@@ -2547,7 +2548,7 @@
       "Sp. Defense": 80,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 120,
@@ -2568,7 +2569,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 121,
@@ -2590,7 +2591,7 @@
       "Sp. Defense": 85,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 122,
@@ -2612,7 +2613,7 @@
       "Sp. Defense": 120,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 123,
@@ -2634,7 +2635,7 @@
       "Sp. Defense": 80,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 124,
@@ -2656,7 +2657,7 @@
       "Sp. Defense": 95,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 125,
@@ -2677,7 +2678,7 @@
       "Sp. Defense": 85,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 126,
@@ -2698,7 +2699,7 @@
       "Sp. Defense": 85,
       "Speed": 93
     },
-"description":""
+    "description": ""
   },
   {
     "id": 127,
@@ -2719,7 +2720,7 @@
       "Sp. Defense": 70,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 128,
@@ -2740,7 +2741,7 @@
       "Sp. Defense": 70,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 129,
@@ -2761,7 +2762,7 @@
       "Sp. Defense": 20,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 130,
@@ -2783,7 +2784,7 @@
       "Sp. Defense": 100,
       "Speed": 81
     },
-"description":""
+    "description": ""
   },
   {
     "id": 131,
@@ -2805,7 +2806,7 @@
       "Sp. Defense": 95,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 132,
@@ -2826,7 +2827,7 @@
       "Sp. Defense": 48,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 133,
@@ -2847,7 +2848,7 @@
       "Sp. Defense": 65,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 134,
@@ -2868,7 +2869,7 @@
       "Sp. Defense": 95,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 135,
@@ -2889,7 +2890,7 @@
       "Sp. Defense": 95,
       "Speed": 130
     },
-"description":""
+    "description": ""
   },
   {
     "id": 136,
@@ -2910,7 +2911,7 @@
       "Sp. Defense": 110,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 137,
@@ -2931,7 +2932,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 138,
@@ -2953,7 +2954,7 @@
       "Sp. Defense": 55,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 139,
@@ -2975,7 +2976,7 @@
       "Sp. Defense": 70,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 140,
@@ -2997,7 +2998,7 @@
       "Sp. Defense": 45,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 141,
@@ -3019,7 +3020,7 @@
       "Sp. Defense": 70,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 142,
@@ -3041,7 +3042,7 @@
       "Sp. Defense": 75,
       "Speed": 130
     },
-"description":""
+    "description": ""
   },
   {
     "id": 143,
@@ -3062,7 +3063,7 @@
       "Sp. Defense": 110,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 144,
@@ -3084,7 +3085,7 @@
       "Sp. Defense": 125,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 145,
@@ -3106,7 +3107,7 @@
       "Sp. Defense": 90,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 146,
@@ -3128,7 +3129,7 @@
       "Sp. Defense": 85,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 147,
@@ -3149,7 +3150,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 148,
@@ -3170,7 +3171,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 149,
@@ -3192,7 +3193,7 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 150,
@@ -3213,7 +3214,7 @@
       "Sp. Defense": 90,
       "Speed": 130
     },
-"description":""
+    "description": ""
   },
   {
     "id": 151,
@@ -3234,7 +3235,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 152,
@@ -3255,7 +3256,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 153,
@@ -3276,7 +3277,7 @@
       "Sp. Defense": 80,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 154,
@@ -3297,7 +3298,7 @@
       "Sp. Defense": 100,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 155,
@@ -3318,7 +3319,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 156,
@@ -3339,7 +3340,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 157,
@@ -3360,7 +3361,7 @@
       "Sp. Defense": 85,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 158,
@@ -3381,7 +3382,7 @@
       "Sp. Defense": 48,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 159,
@@ -3402,7 +3403,7 @@
       "Sp. Defense": 63,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 160,
@@ -3423,7 +3424,7 @@
       "Sp. Defense": 83,
       "Speed": 78
     },
-"description":""
+    "description": ""
   },
   {
     "id": 161,
@@ -3444,7 +3445,7 @@
       "Sp. Defense": 45,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 162,
@@ -3465,7 +3466,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 163,
@@ -3487,7 +3488,7 @@
       "Sp. Defense": 56,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 164,
@@ -3509,7 +3510,7 @@
       "Sp. Defense": 96,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 165,
@@ -3531,7 +3532,7 @@
       "Sp. Defense": 80,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 166,
@@ -3553,7 +3554,7 @@
       "Sp. Defense": 110,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 167,
@@ -3575,7 +3576,7 @@
       "Sp. Defense": 40,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 168,
@@ -3597,7 +3598,7 @@
       "Sp. Defense": 70,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 169,
@@ -3619,7 +3620,7 @@
       "Sp. Defense": 80,
       "Speed": 130
     },
-"description":""
+    "description": ""
   },
   {
     "id": 170,
@@ -3641,7 +3642,7 @@
       "Sp. Defense": 56,
       "Speed": 67
     },
-"description":""
+    "description": ""
   },
   {
     "id": 171,
@@ -3663,7 +3664,7 @@
       "Sp. Defense": 76,
       "Speed": 67
     },
-"description":""
+    "description": ""
   },
   {
     "id": 172,
@@ -3684,7 +3685,7 @@
       "Sp. Defense": 35,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 173,
@@ -3705,7 +3706,7 @@
       "Sp. Defense": 55,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 174,
@@ -3727,7 +3728,7 @@
       "Sp. Defense": 20,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 175,
@@ -3748,7 +3749,7 @@
       "Sp. Defense": 65,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 176,
@@ -3770,7 +3771,7 @@
       "Sp. Defense": 105,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 177,
@@ -3792,7 +3793,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 178,
@@ -3814,7 +3815,7 @@
       "Sp. Defense": 70,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 179,
@@ -3835,7 +3836,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 180,
@@ -3856,7 +3857,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 181,
@@ -3877,7 +3878,7 @@
       "Sp. Defense": 90,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 182,
@@ -3898,7 +3899,7 @@
       "Sp. Defense": 100,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 183,
@@ -3920,7 +3921,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 184,
@@ -3942,7 +3943,7 @@
       "Sp. Defense": 80,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 185,
@@ -3963,7 +3964,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 186,
@@ -3984,7 +3985,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 187,
@@ -4006,7 +4007,7 @@
       "Sp. Defense": 55,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 188,
@@ -4028,7 +4029,7 @@
       "Sp. Defense": 65,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 189,
@@ -4050,7 +4051,7 @@
       "Sp. Defense": 95,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 190,
@@ -4071,7 +4072,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 191,
@@ -4092,7 +4093,7 @@
       "Sp. Defense": 30,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 192,
@@ -4113,7 +4114,7 @@
       "Sp. Defense": 85,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 193,
@@ -4135,7 +4136,7 @@
       "Sp. Defense": 45,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 194,
@@ -4157,7 +4158,7 @@
       "Sp. Defense": 25,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 195,
@@ -4179,7 +4180,7 @@
       "Sp. Defense": 65,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 196,
@@ -4200,7 +4201,7 @@
       "Sp. Defense": 95,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 197,
@@ -4221,7 +4222,7 @@
       "Sp. Defense": 130,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 198,
@@ -4243,7 +4244,7 @@
       "Sp. Defense": 42,
       "Speed": 91
     },
-"description":""
+    "description": ""
   },
   {
     "id": 199,
@@ -4265,7 +4266,7 @@
       "Sp. Defense": 110,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 200,
@@ -4286,7 +4287,7 @@
       "Sp. Defense": 85,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 201,
@@ -4307,7 +4308,7 @@
       "Sp. Defense": 48,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 202,
@@ -4328,7 +4329,7 @@
       "Sp. Defense": 58,
       "Speed": 33
     },
-"description":""
+    "description": ""
   },
   {
     "id": 203,
@@ -4350,7 +4351,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 204,
@@ -4371,7 +4372,7 @@
       "Sp. Defense": 35,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 205,
@@ -4393,7 +4394,7 @@
       "Sp. Defense": 60,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 206,
@@ -4414,7 +4415,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 207,
@@ -4436,7 +4437,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 208,
@@ -4458,7 +4459,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 209,
@@ -4479,7 +4480,7 @@
       "Sp. Defense": 40,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 210,
@@ -4500,7 +4501,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 211,
@@ -4522,7 +4523,7 @@
       "Sp. Defense": 55,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 212,
@@ -4544,7 +4545,7 @@
       "Sp. Defense": 80,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 213,
@@ -4566,7 +4567,7 @@
       "Sp. Defense": 230,
       "Speed": 5
     },
-"description":""
+    "description": ""
   },
   {
     "id": 214,
@@ -4588,7 +4589,7 @@
       "Sp. Defense": 95,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 215,
@@ -4610,7 +4611,7 @@
       "Sp. Defense": 75,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 216,
@@ -4631,7 +4632,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 217,
@@ -4652,7 +4653,7 @@
       "Sp. Defense": 75,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 218,
@@ -4673,7 +4674,7 @@
       "Sp. Defense": 40,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 219,
@@ -4695,7 +4696,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 220,
@@ -4717,7 +4718,7 @@
       "Sp. Defense": 30,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 221,
@@ -4739,7 +4740,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 222,
@@ -4761,7 +4762,7 @@
       "Sp. Defense": 95,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 223,
@@ -4782,7 +4783,7 @@
       "Sp. Defense": 35,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 224,
@@ -4803,7 +4804,7 @@
       "Sp. Defense": 75,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 225,
@@ -4825,7 +4826,7 @@
       "Sp. Defense": 45,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 226,
@@ -4847,7 +4848,7 @@
       "Sp. Defense": 140,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 227,
@@ -4869,7 +4870,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 228,
@@ -4891,7 +4892,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 229,
@@ -4913,7 +4914,7 @@
       "Sp. Defense": 80,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 230,
@@ -4935,7 +4936,7 @@
       "Sp. Defense": 95,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 231,
@@ -4956,7 +4957,7 @@
       "Sp. Defense": 40,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 232,
@@ -4977,7 +4978,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 233,
@@ -4998,7 +4999,7 @@
       "Sp. Defense": 95,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 234,
@@ -5019,7 +5020,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 235,
@@ -5040,7 +5041,7 @@
       "Sp. Defense": 45,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 236,
@@ -5061,7 +5062,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 237,
@@ -5082,7 +5083,7 @@
       "Sp. Defense": 110,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 238,
@@ -5104,7 +5105,7 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 239,
@@ -5125,7 +5126,7 @@
       "Sp. Defense": 55,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 240,
@@ -5146,7 +5147,7 @@
       "Sp. Defense": 55,
       "Speed": 83
     },
-"description":""
+    "description": ""
   },
   {
     "id": 241,
@@ -5167,7 +5168,7 @@
       "Sp. Defense": 70,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 242,
@@ -5188,7 +5189,7 @@
       "Sp. Defense": 135,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 243,
@@ -5209,7 +5210,7 @@
       "Sp. Defense": 100,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 244,
@@ -5230,7 +5231,7 @@
       "Sp. Defense": 75,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 245,
@@ -5251,7 +5252,7 @@
       "Sp. Defense": 115,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 246,
@@ -5273,7 +5274,7 @@
       "Sp. Defense": 50,
       "Speed": 41
     },
-"description":""
+    "description": ""
   },
   {
     "id": 247,
@@ -5295,7 +5296,7 @@
       "Sp. Defense": 70,
       "Speed": 51
     },
-"description":""
+    "description": ""
   },
   {
     "id": 248,
@@ -5317,7 +5318,7 @@
       "Sp. Defense": 100,
       "Speed": 61
     },
-"description":""
+    "description": ""
   },
   {
     "id": 249,
@@ -5339,7 +5340,7 @@
       "Sp. Defense": 154,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 250,
@@ -5361,7 +5362,7 @@
       "Sp. Defense": 154,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 251,
@@ -5383,7 +5384,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 252,
@@ -5404,7 +5405,7 @@
       "Sp. Defense": 55,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 253,
@@ -5425,7 +5426,7 @@
       "Sp. Defense": 65,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 254,
@@ -5446,7 +5447,7 @@
       "Sp. Defense": 85,
       "Speed": 120
     },
-"description":""
+    "description": ""
   },
   {
     "id": 255,
@@ -5467,7 +5468,7 @@
       "Sp. Defense": 50,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 256,
@@ -5489,7 +5490,7 @@
       "Sp. Defense": 60,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 257,
@@ -5511,7 +5512,7 @@
       "Sp. Defense": 70,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 258,
@@ -5532,7 +5533,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 259,
@@ -5554,7 +5555,7 @@
       "Sp. Defense": 70,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 260,
@@ -5576,7 +5577,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 261,
@@ -5597,7 +5598,7 @@
       "Sp. Defense": 30,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 262,
@@ -5618,7 +5619,7 @@
       "Sp. Defense": 60,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 263,
@@ -5639,7 +5640,7 @@
       "Sp. Defense": 41,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 264,
@@ -5660,7 +5661,7 @@
       "Sp. Defense": 61,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 265,
@@ -5681,7 +5682,7 @@
       "Sp. Defense": 30,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 266,
@@ -5702,7 +5703,7 @@
       "Sp. Defense": 25,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 267,
@@ -5724,7 +5725,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 268,
@@ -5745,7 +5746,7 @@
       "Sp. Defense": 25,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 269,
@@ -5767,7 +5768,7 @@
       "Sp. Defense": 90,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 270,
@@ -5789,7 +5790,7 @@
       "Sp. Defense": 50,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 271,
@@ -5811,7 +5812,7 @@
       "Sp. Defense": 70,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 272,
@@ -5833,7 +5834,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 273,
@@ -5854,7 +5855,7 @@
       "Sp. Defense": 30,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 274,
@@ -5876,7 +5877,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 275,
@@ -5898,7 +5899,7 @@
       "Sp. Defense": 60,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 276,
@@ -5920,7 +5921,7 @@
       "Sp. Defense": 30,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 277,
@@ -5942,7 +5943,7 @@
       "Sp. Defense": 50,
       "Speed": 125
     },
-"description":""
+    "description": ""
   },
   {
     "id": 278,
@@ -5964,7 +5965,7 @@
       "Sp. Defense": 30,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 279,
@@ -5986,7 +5987,7 @@
       "Sp. Defense": 70,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 280,
@@ -6008,7 +6009,7 @@
       "Sp. Defense": 35,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 281,
@@ -6030,7 +6031,7 @@
       "Sp. Defense": 55,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 282,
@@ -6052,7 +6053,7 @@
       "Sp. Defense": 115,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 283,
@@ -6074,7 +6075,7 @@
       "Sp. Defense": 52,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 284,
@@ -6096,7 +6097,7 @@
       "Sp. Defense": 82,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 285,
@@ -6117,7 +6118,7 @@
       "Sp. Defense": 60,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 286,
@@ -6139,7 +6140,7 @@
       "Sp. Defense": 60,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 287,
@@ -6160,7 +6161,7 @@
       "Sp. Defense": 35,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 288,
@@ -6181,7 +6182,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 289,
@@ -6202,7 +6203,7 @@
       "Sp. Defense": 65,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 290,
@@ -6224,7 +6225,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 291,
@@ -6246,7 +6247,7 @@
       "Sp. Defense": 50,
       "Speed": 160
     },
-"description":""
+    "description": ""
   },
   {
     "id": 292,
@@ -6268,7 +6269,7 @@
       "Sp. Defense": 30,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 293,
@@ -6289,7 +6290,7 @@
       "Sp. Defense": 23,
       "Speed": 28
     },
-"description":""
+    "description": ""
   },
   {
     "id": 294,
@@ -6310,7 +6311,7 @@
       "Sp. Defense": 43,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 295,
@@ -6331,7 +6332,7 @@
       "Sp. Defense": 73,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 296,
@@ -6352,7 +6353,7 @@
       "Sp. Defense": 30,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 297,
@@ -6373,7 +6374,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 298,
@@ -6395,7 +6396,7 @@
       "Sp. Defense": 40,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 299,
@@ -6416,7 +6417,7 @@
       "Sp. Defense": 90,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 300,
@@ -6437,7 +6438,7 @@
       "Sp. Defense": 35,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 301,
@@ -6458,7 +6459,7 @@
       "Sp. Defense": 55,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 302,
@@ -6480,7 +6481,7 @@
       "Sp. Defense": 65,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 303,
@@ -6502,7 +6503,7 @@
       "Sp. Defense": 55,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 304,
@@ -6524,7 +6525,7 @@
       "Sp. Defense": 40,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 305,
@@ -6546,7 +6547,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 306,
@@ -6568,7 +6569,7 @@
       "Sp. Defense": 60,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 307,
@@ -6590,7 +6591,7 @@
       "Sp. Defense": 55,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 308,
@@ -6612,7 +6613,7 @@
       "Sp. Defense": 75,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 309,
@@ -6633,7 +6634,7 @@
       "Sp. Defense": 40,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 310,
@@ -6654,7 +6655,7 @@
       "Sp. Defense": 60,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 311,
@@ -6675,7 +6676,7 @@
       "Sp. Defense": 75,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 312,
@@ -6696,7 +6697,7 @@
       "Sp. Defense": 85,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 313,
@@ -6717,7 +6718,7 @@
       "Sp. Defense": 85,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 314,
@@ -6738,7 +6739,7 @@
       "Sp. Defense": 85,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 315,
@@ -6760,7 +6761,7 @@
       "Sp. Defense": 80,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 316,
@@ -6781,7 +6782,7 @@
       "Sp. Defense": 53,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 317,
@@ -6802,7 +6803,7 @@
       "Sp. Defense": 83,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 318,
@@ -6824,7 +6825,7 @@
       "Sp. Defense": 20,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 319,
@@ -6846,7 +6847,7 @@
       "Sp. Defense": 40,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 320,
@@ -6867,7 +6868,7 @@
       "Sp. Defense": 35,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 321,
@@ -6888,7 +6889,7 @@
       "Sp. Defense": 45,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 322,
@@ -6910,7 +6911,7 @@
       "Sp. Defense": 45,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 323,
@@ -6932,7 +6933,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 324,
@@ -6953,7 +6954,7 @@
       "Sp. Defense": 70,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 325,
@@ -6974,7 +6975,7 @@
       "Sp. Defense": 80,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 326,
@@ -6995,7 +6996,7 @@
       "Sp. Defense": 110,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 327,
@@ -7016,7 +7017,7 @@
       "Sp. Defense": 60,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 328,
@@ -7037,7 +7038,7 @@
       "Sp. Defense": 45,
       "Speed": 10
     },
-"description":""
+    "description": ""
   },
   {
     "id": 329,
@@ -7059,7 +7060,7 @@
       "Sp. Defense": 50,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 330,
@@ -7081,7 +7082,7 @@
       "Sp. Defense": 80,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 331,
@@ -7102,7 +7103,7 @@
       "Sp. Defense": 40,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 332,
@@ -7124,7 +7125,7 @@
       "Sp. Defense": 60,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 333,
@@ -7146,7 +7147,7 @@
       "Sp. Defense": 75,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 334,
@@ -7168,7 +7169,7 @@
       "Sp. Defense": 105,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 335,
@@ -7189,7 +7190,7 @@
       "Sp. Defense": 60,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 336,
@@ -7210,7 +7211,7 @@
       "Sp. Defense": 60,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 337,
@@ -7232,7 +7233,7 @@
       "Sp. Defense": 85,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 338,
@@ -7254,7 +7255,7 @@
       "Sp. Defense": 65,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 339,
@@ -7276,7 +7277,7 @@
       "Sp. Defense": 41,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 340,
@@ -7298,7 +7299,7 @@
       "Sp. Defense": 71,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 341,
@@ -7319,7 +7320,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 342,
@@ -7341,7 +7342,7 @@
       "Sp. Defense": 55,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 343,
@@ -7363,7 +7364,7 @@
       "Sp. Defense": 70,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 344,
@@ -7385,7 +7386,7 @@
       "Sp. Defense": 120,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 345,
@@ -7407,7 +7408,7 @@
       "Sp. Defense": 87,
       "Speed": 23
     },
-"description":""
+    "description": ""
   },
   {
     "id": 346,
@@ -7429,7 +7430,7 @@
       "Sp. Defense": 107,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 347,
@@ -7451,7 +7452,7 @@
       "Sp. Defense": 50,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 348,
@@ -7473,7 +7474,7 @@
       "Sp. Defense": 80,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 349,
@@ -7494,7 +7495,7 @@
       "Sp. Defense": 55,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 350,
@@ -7515,7 +7516,7 @@
       "Sp. Defense": 125,
       "Speed": 81
     },
-"description":""
+    "description": ""
   },
   {
     "id": 351,
@@ -7536,7 +7537,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 352,
@@ -7557,7 +7558,7 @@
       "Sp. Defense": 120,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 353,
@@ -7578,7 +7579,7 @@
       "Sp. Defense": 33,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 354,
@@ -7599,7 +7600,7 @@
       "Sp. Defense": 63,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 355,
@@ -7620,7 +7621,7 @@
       "Sp. Defense": 90,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 356,
@@ -7641,7 +7642,7 @@
       "Sp. Defense": 130,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 357,
@@ -7663,7 +7664,7 @@
       "Sp. Defense": 87,
       "Speed": 51
     },
-"description":""
+    "description": ""
   },
   {
     "id": 358,
@@ -7684,7 +7685,7 @@
       "Sp. Defense": 90,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 359,
@@ -7705,7 +7706,7 @@
       "Sp. Defense": 60,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 360,
@@ -7726,7 +7727,7 @@
       "Sp. Defense": 48,
       "Speed": 23
     },
-"description":""
+    "description": ""
   },
   {
     "id": 361,
@@ -7747,7 +7748,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 362,
@@ -7768,7 +7769,7 @@
       "Sp. Defense": 80,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 363,
@@ -7790,7 +7791,7 @@
       "Sp. Defense": 50,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 364,
@@ -7812,7 +7813,7 @@
       "Sp. Defense": 70,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 365,
@@ -7834,7 +7835,7 @@
       "Sp. Defense": 90,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 366,
@@ -7855,7 +7856,7 @@
       "Sp. Defense": 55,
       "Speed": 32
     },
-"description":""
+    "description": ""
   },
   {
     "id": 367,
@@ -7876,7 +7877,7 @@
       "Sp. Defense": 75,
       "Speed": 52
     },
-"description":""
+    "description": ""
   },
   {
     "id": 368,
@@ -7897,7 +7898,7 @@
       "Sp. Defense": 75,
       "Speed": 52
     },
-"description":""
+    "description": ""
   },
   {
     "id": 369,
@@ -7919,7 +7920,7 @@
       "Sp. Defense": 65,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 370,
@@ -7940,7 +7941,7 @@
       "Sp. Defense": 65,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 371,
@@ -7961,7 +7962,7 @@
       "Sp. Defense": 30,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 372,
@@ -7982,7 +7983,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 373,
@@ -8004,7 +8005,7 @@
       "Sp. Defense": 80,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 374,
@@ -8026,7 +8027,7 @@
       "Sp. Defense": 60,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 375,
@@ -8048,7 +8049,7 @@
       "Sp. Defense": 80,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 376,
@@ -8070,7 +8071,7 @@
       "Sp. Defense": 90,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 377,
@@ -8091,7 +8092,7 @@
       "Sp. Defense": 100,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 378,
@@ -8112,7 +8113,7 @@
       "Sp. Defense": 200,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 379,
@@ -8133,7 +8134,7 @@
       "Sp. Defense": 150,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 380,
@@ -8155,7 +8156,7 @@
       "Sp. Defense": 130,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 381,
@@ -8177,7 +8178,7 @@
       "Sp. Defense": 110,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 382,
@@ -8198,7 +8199,7 @@
       "Sp. Defense": 140,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 383,
@@ -8219,7 +8220,7 @@
       "Sp. Defense": 90,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 384,
@@ -8241,7 +8242,7 @@
       "Sp. Defense": 90,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 385,
@@ -8263,7 +8264,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 386,
@@ -8284,7 +8285,7 @@
       "Sp. Defense": 50,
       "Speed": 150
     },
-"description":""
+    "description": ""
   },
   {
     "id": 387,
@@ -8305,7 +8306,7 @@
       "Sp. Defense": 55,
       "Speed": 31
     },
-"description":""
+    "description": ""
   },
   {
     "id": 388,
@@ -8326,7 +8327,7 @@
       "Sp. Defense": 65,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 389,
@@ -8348,7 +8349,7 @@
       "Sp. Defense": 85,
       "Speed": 56
     },
-"description":""
+    "description": ""
   },
   {
     "id": 390,
@@ -8369,7 +8370,7 @@
       "Sp. Defense": 44,
       "Speed": 61
     },
-"description":""
+    "description": ""
   },
   {
     "id": 391,
@@ -8391,7 +8392,7 @@
       "Sp. Defense": 52,
       "Speed": 81
     },
-"description":""
+    "description": ""
   },
   {
     "id": 392,
@@ -8413,7 +8414,7 @@
       "Sp. Defense": 71,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 393,
@@ -8434,7 +8435,7 @@
       "Sp. Defense": 56,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 394,
@@ -8455,7 +8456,7 @@
       "Sp. Defense": 76,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 395,
@@ -8477,7 +8478,7 @@
       "Sp. Defense": 101,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 396,
@@ -8499,7 +8500,7 @@
       "Sp. Defense": 30,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 397,
@@ -8521,7 +8522,7 @@
       "Sp. Defense": 40,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 398,
@@ -8543,7 +8544,7 @@
       "Sp. Defense": 60,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 399,
@@ -8564,7 +8565,7 @@
       "Sp. Defense": 40,
       "Speed": 31
     },
-"description":""
+    "description": ""
   },
   {
     "id": 400,
@@ -8586,7 +8587,7 @@
       "Sp. Defense": 60,
       "Speed": 71
     },
-"description":""
+    "description": ""
   },
   {
     "id": 401,
@@ -8607,7 +8608,7 @@
       "Sp. Defense": 41,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 402,
@@ -8628,7 +8629,7 @@
       "Sp. Defense": 51,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 403,
@@ -8649,7 +8650,7 @@
       "Sp. Defense": 34,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 404,
@@ -8670,7 +8671,7 @@
       "Sp. Defense": 49,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 405,
@@ -8691,7 +8692,7 @@
       "Sp. Defense": 79,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 406,
@@ -8713,7 +8714,7 @@
       "Sp. Defense": 70,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 407,
@@ -8735,7 +8736,7 @@
       "Sp. Defense": 105,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 408,
@@ -8756,7 +8757,7 @@
       "Sp. Defense": 30,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 409,
@@ -8777,7 +8778,7 @@
       "Sp. Defense": 50,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 410,
@@ -8799,7 +8800,7 @@
       "Sp. Defense": 88,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 411,
@@ -8821,7 +8822,7 @@
       "Sp. Defense": 138,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 412,
@@ -8842,7 +8843,7 @@
       "Sp. Defense": 45,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 413,
@@ -8864,7 +8865,7 @@
       "Sp. Defense": 105,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 414,
@@ -8886,7 +8887,7 @@
       "Sp. Defense": 50,
       "Speed": 66
     },
-"description":""
+    "description": ""
   },
   {
     "id": 415,
@@ -8908,7 +8909,7 @@
       "Sp. Defense": 42,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 416,
@@ -8930,7 +8931,7 @@
       "Sp. Defense": 102,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 417,
@@ -8951,7 +8952,7 @@
       "Sp. Defense": 90,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 418,
@@ -8972,7 +8973,7 @@
       "Sp. Defense": 30,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 419,
@@ -8993,7 +8994,7 @@
       "Sp. Defense": 50,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 420,
@@ -9014,7 +9015,7 @@
       "Sp. Defense": 53,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 421,
@@ -9035,7 +9036,7 @@
       "Sp. Defense": 78,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 422,
@@ -9056,7 +9057,7 @@
       "Sp. Defense": 62,
       "Speed": 34
     },
-"description":""
+    "description": ""
   },
   {
     "id": 423,
@@ -9078,7 +9079,7 @@
       "Sp. Defense": 82,
       "Speed": 39
     },
-"description":""
+    "description": ""
   },
   {
     "id": 424,
@@ -9099,7 +9100,7 @@
       "Sp. Defense": 66,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 425,
@@ -9121,7 +9122,7 @@
       "Sp. Defense": 44,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 426,
@@ -9143,7 +9144,7 @@
       "Sp. Defense": 54,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 427,
@@ -9164,7 +9165,7 @@
       "Sp. Defense": 56,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 428,
@@ -9185,7 +9186,7 @@
       "Sp. Defense": 96,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 429,
@@ -9206,7 +9207,7 @@
       "Sp. Defense": 105,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 430,
@@ -9228,7 +9229,7 @@
       "Sp. Defense": 52,
       "Speed": 71
     },
-"description":""
+    "description": ""
   },
   {
     "id": 431,
@@ -9249,7 +9250,7 @@
       "Sp. Defense": 37,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 432,
@@ -9270,7 +9271,7 @@
       "Sp. Defense": 59,
       "Speed": 112
     },
-"description":""
+    "description": ""
   },
   {
     "id": 433,
@@ -9291,7 +9292,7 @@
       "Sp. Defense": 50,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 434,
@@ -9313,7 +9314,7 @@
       "Sp. Defense": 41,
       "Speed": 74
     },
-"description":""
+    "description": ""
   },
   {
     "id": 435,
@@ -9335,7 +9336,7 @@
       "Sp. Defense": 61,
       "Speed": 84
     },
-"description":""
+    "description": ""
   },
   {
     "id": 436,
@@ -9357,7 +9358,7 @@
       "Sp. Defense": 86,
       "Speed": 23
     },
-"description":""
+    "description": ""
   },
   {
     "id": 437,
@@ -9379,7 +9380,7 @@
       "Sp. Defense": 116,
       "Speed": 33
     },
-"description":""
+    "description": ""
   },
   {
     "id": 438,
@@ -9400,7 +9401,7 @@
       "Sp. Defense": 45,
       "Speed": 10
     },
-"description":""
+    "description": ""
   },
   {
     "id": 439,
@@ -9422,7 +9423,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 440,
@@ -9443,7 +9444,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 441,
@@ -9465,7 +9466,7 @@
       "Sp. Defense": 42,
       "Speed": 91
     },
-"description":""
+    "description": ""
   },
   {
     "id": 442,
@@ -9487,7 +9488,7 @@
       "Sp. Defense": 108,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 443,
@@ -9509,7 +9510,7 @@
       "Sp. Defense": 45,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 444,
@@ -9531,7 +9532,7 @@
       "Sp. Defense": 55,
       "Speed": 82
     },
-"description":""
+    "description": ""
   },
   {
     "id": 445,
@@ -9553,7 +9554,7 @@
       "Sp. Defense": 85,
       "Speed": 102
     },
-"description":""
+    "description": ""
   },
   {
     "id": 446,
@@ -9574,7 +9575,7 @@
       "Sp. Defense": 85,
       "Speed": 5
     },
-"description":""
+    "description": ""
   },
   {
     "id": 447,
@@ -9595,7 +9596,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 448,
@@ -9617,7 +9618,7 @@
       "Sp. Defense": 70,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 449,
@@ -9638,7 +9639,7 @@
       "Sp. Defense": 42,
       "Speed": 32
     },
-"description":""
+    "description": ""
   },
   {
     "id": 450,
@@ -9659,7 +9660,7 @@
       "Sp. Defense": 72,
       "Speed": 47
     },
-"description":""
+    "description": ""
   },
   {
     "id": 451,
@@ -9681,7 +9682,7 @@
       "Sp. Defense": 55,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 452,
@@ -9703,7 +9704,7 @@
       "Sp. Defense": 75,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 453,
@@ -9725,7 +9726,7 @@
       "Sp. Defense": 40,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 454,
@@ -9747,7 +9748,7 @@
       "Sp. Defense": 65,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 455,
@@ -9768,7 +9769,7 @@
       "Sp. Defense": 72,
       "Speed": 46
     },
-"description":""
+    "description": ""
   },
   {
     "id": 456,
@@ -9789,7 +9790,7 @@
       "Sp. Defense": 61,
       "Speed": 66
     },
-"description":""
+    "description": ""
   },
   {
     "id": 457,
@@ -9810,7 +9811,7 @@
       "Sp. Defense": 86,
       "Speed": 91
     },
-"description":""
+    "description": ""
   },
   {
     "id": 458,
@@ -9832,7 +9833,7 @@
       "Sp. Defense": 120,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 459,
@@ -9854,7 +9855,7 @@
       "Sp. Defense": 60,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 460,
@@ -9876,7 +9877,7 @@
       "Sp. Defense": 85,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 461,
@@ -9898,7 +9899,7 @@
       "Sp. Defense": 85,
       "Speed": 125
     },
-"description":""
+    "description": ""
   },
   {
     "id": 462,
@@ -9920,7 +9921,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 463,
@@ -9941,7 +9942,7 @@
       "Sp. Defense": 95,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 464,
@@ -9963,7 +9964,7 @@
       "Sp. Defense": 55,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 465,
@@ -9984,7 +9985,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 466,
@@ -10005,7 +10006,7 @@
       "Sp. Defense": 85,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 467,
@@ -10026,7 +10027,7 @@
       "Sp. Defense": 95,
       "Speed": 83
     },
-"description":""
+    "description": ""
   },
   {
     "id": 468,
@@ -10048,7 +10049,7 @@
       "Sp. Defense": 115,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 469,
@@ -10070,7 +10071,7 @@
       "Sp. Defense": 56,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 470,
@@ -10091,7 +10092,7 @@
       "Sp. Defense": 65,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 471,
@@ -10112,7 +10113,7 @@
       "Sp. Defense": 95,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 472,
@@ -10134,7 +10135,7 @@
       "Sp. Defense": 75,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 473,
@@ -10156,7 +10157,7 @@
       "Sp. Defense": 60,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 474,
@@ -10177,7 +10178,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 475,
@@ -10199,7 +10200,7 @@
       "Sp. Defense": 115,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 476,
@@ -10221,7 +10222,7 @@
       "Sp. Defense": 150,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 477,
@@ -10242,7 +10243,7 @@
       "Sp. Defense": 135,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 478,
@@ -10264,7 +10265,7 @@
       "Sp. Defense": 70,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 479,
@@ -10286,7 +10287,7 @@
       "Sp. Defense": 77,
       "Speed": 91
     },
-"description":""
+    "description": ""
   },
   {
     "id": 480,
@@ -10307,7 +10308,7 @@
       "Sp. Defense": 130,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 481,
@@ -10328,7 +10329,7 @@
       "Sp. Defense": 105,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 482,
@@ -10349,7 +10350,7 @@
       "Sp. Defense": 70,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 483,
@@ -10371,7 +10372,7 @@
       "Sp. Defense": 100,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 484,
@@ -10393,7 +10394,7 @@
       "Sp. Defense": 120,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 485,
@@ -10415,7 +10416,7 @@
       "Sp. Defense": 106,
       "Speed": 77
     },
-"description":""
+    "description": ""
   },
   {
     "id": 486,
@@ -10436,7 +10437,7 @@
       "Sp. Defense": 110,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 487,
@@ -10458,7 +10459,7 @@
       "Sp. Defense": 120,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 488,
@@ -10479,7 +10480,7 @@
       "Sp. Defense": 130,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 489,
@@ -10500,7 +10501,7 @@
       "Sp. Defense": 80,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 490,
@@ -10521,7 +10522,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 491,
@@ -10542,7 +10543,7 @@
       "Sp. Defense": 90,
       "Speed": 125
     },
-"description":""
+    "description": ""
   },
   {
     "id": 492,
@@ -10563,7 +10564,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 493,
@@ -10584,7 +10585,7 @@
       "Sp. Defense": 120,
       "Speed": 120
     },
-"description":""
+    "description": ""
   },
   {
     "id": 494,
@@ -10606,7 +10607,7 @@
       "Sp. Defense": 100,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 495,
@@ -10627,7 +10628,7 @@
       "Sp. Defense": 55,
       "Speed": 63
     },
-"description":""
+    "description": ""
   },
   {
     "id": 496,
@@ -10648,7 +10649,7 @@
       "Sp. Defense": 75,
       "Speed": 83
     },
-"description":""
+    "description": ""
   },
   {
     "id": 497,
@@ -10669,7 +10670,7 @@
       "Sp. Defense": 95,
       "Speed": 113
     },
-"description":""
+    "description": ""
   },
   {
     "id": 498,
@@ -10690,7 +10691,7 @@
       "Sp. Defense": 45,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 499,
@@ -10712,7 +10713,7 @@
       "Sp. Defense": 55,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 500,
@@ -10734,7 +10735,7 @@
       "Sp. Defense": 65,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 501,
@@ -10755,7 +10756,7 @@
       "Sp. Defense": 45,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 502,
@@ -10776,7 +10777,7 @@
       "Sp. Defense": 60,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 503,
@@ -10797,7 +10798,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 504,
@@ -10818,7 +10819,7 @@
       "Sp. Defense": 39,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 505,
@@ -10839,7 +10840,7 @@
       "Sp. Defense": 69,
       "Speed": 77
     },
-"description":""
+    "description": ""
   },
   {
     "id": 506,
@@ -10860,7 +10861,7 @@
       "Sp. Defense": 45,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 507,
@@ -10881,7 +10882,7 @@
       "Sp. Defense": 65,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 508,
@@ -10902,7 +10903,7 @@
       "Sp. Defense": 90,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 509,
@@ -10923,7 +10924,7 @@
       "Sp. Defense": 37,
       "Speed": 66
     },
-"description":""
+    "description": ""
   },
   {
     "id": 510,
@@ -10944,7 +10945,7 @@
       "Sp. Defense": 50,
       "Speed": 106
     },
-"description":""
+    "description": ""
   },
   {
     "id": 511,
@@ -10965,7 +10966,7 @@
       "Sp. Defense": 48,
       "Speed": 64
     },
-"description":""
+    "description": ""
   },
   {
     "id": 512,
@@ -10986,7 +10987,7 @@
       "Sp. Defense": 63,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 513,
@@ -11007,7 +11008,7 @@
       "Sp. Defense": 48,
       "Speed": 64
     },
-"description":""
+    "description": ""
   },
   {
     "id": 514,
@@ -11028,7 +11029,7 @@
       "Sp. Defense": 63,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 515,
@@ -11049,7 +11050,7 @@
       "Sp. Defense": 48,
       "Speed": 64
     },
-"description":""
+    "description": ""
   },
   {
     "id": 516,
@@ -11070,7 +11071,7 @@
       "Sp. Defense": 63,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 517,
@@ -11091,7 +11092,7 @@
       "Sp. Defense": 55,
       "Speed": 24
     },
-"description":""
+    "description": ""
   },
   {
     "id": 518,
@@ -11112,7 +11113,7 @@
       "Sp. Defense": 95,
       "Speed": 29
     },
-"description":""
+    "description": ""
   },
   {
     "id": 519,
@@ -11134,7 +11135,7 @@
       "Sp. Defense": 30,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 520,
@@ -11156,7 +11157,7 @@
       "Sp. Defense": 42,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 521,
@@ -11178,7 +11179,7 @@
       "Sp. Defense": 55,
       "Speed": 93
     },
-"description":""
+    "description": ""
   },
   {
     "id": 522,
@@ -11199,7 +11200,7 @@
       "Sp. Defense": 32,
       "Speed": 76
     },
-"description":""
+    "description": ""
   },
   {
     "id": 523,
@@ -11220,7 +11221,7 @@
       "Sp. Defense": 63,
       "Speed": 116
     },
-"description":""
+    "description": ""
   },
   {
     "id": 524,
@@ -11241,7 +11242,7 @@
       "Sp. Defense": 25,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 525,
@@ -11262,7 +11263,7 @@
       "Sp. Defense": 40,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 526,
@@ -11283,7 +11284,7 @@
       "Sp. Defense": 80,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 527,
@@ -11305,7 +11306,7 @@
       "Sp. Defense": 43,
       "Speed": 72
     },
-"description":""
+    "description": ""
   },
   {
     "id": 528,
@@ -11327,7 +11328,7 @@
       "Sp. Defense": 55,
       "Speed": 114
     },
-"description":""
+    "description": ""
   },
   {
     "id": 529,
@@ -11348,7 +11349,7 @@
       "Sp. Defense": 45,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 530,
@@ -11370,7 +11371,7 @@
       "Sp. Defense": 65,
       "Speed": 88
     },
-"description":""
+    "description": ""
   },
   {
     "id": 531,
@@ -11391,7 +11392,7 @@
       "Sp. Defense": 86,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 532,
@@ -11412,7 +11413,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 533,
@@ -11433,7 +11434,7 @@
       "Sp. Defense": 50,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 534,
@@ -11454,7 +11455,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 535,
@@ -11475,7 +11476,7 @@
       "Sp. Defense": 40,
       "Speed": 64
     },
-"description":""
+    "description": ""
   },
   {
     "id": 536,
@@ -11497,7 +11498,7 @@
       "Sp. Defense": 55,
       "Speed": 69
     },
-"description":""
+    "description": ""
   },
   {
     "id": 537,
@@ -11519,7 +11520,7 @@
       "Sp. Defense": 75,
       "Speed": 74
     },
-"description":""
+    "description": ""
   },
   {
     "id": 538,
@@ -11540,7 +11541,7 @@
       "Sp. Defense": 85,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 539,
@@ -11561,7 +11562,7 @@
       "Sp. Defense": 75,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 540,
@@ -11583,7 +11584,7 @@
       "Sp. Defense": 60,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 541,
@@ -11605,7 +11606,7 @@
       "Sp. Defense": 80,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 542,
@@ -11627,7 +11628,7 @@
       "Sp. Defense": 80,
       "Speed": 92
     },
-"description":""
+    "description": ""
   },
   {
     "id": 543,
@@ -11649,7 +11650,7 @@
       "Sp. Defense": 39,
       "Speed": 57
     },
-"description":""
+    "description": ""
   },
   {
     "id": 544,
@@ -11671,7 +11672,7 @@
       "Sp. Defense": 79,
       "Speed": 47
     },
-"description":""
+    "description": ""
   },
   {
     "id": 545,
@@ -11693,7 +11694,7 @@
       "Sp. Defense": 69,
       "Speed": 112
     },
-"description":""
+    "description": ""
   },
   {
     "id": 546,
@@ -11715,7 +11716,7 @@
       "Sp. Defense": 50,
       "Speed": 66
     },
-"description":""
+    "description": ""
   },
   {
     "id": 547,
@@ -11737,7 +11738,7 @@
       "Sp. Defense": 75,
       "Speed": 116
     },
-"description":""
+    "description": ""
   },
   {
     "id": 548,
@@ -11758,7 +11759,7 @@
       "Sp. Defense": 50,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 549,
@@ -11779,7 +11780,7 @@
       "Sp. Defense": 75,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 550,
@@ -11800,7 +11801,7 @@
       "Sp. Defense": 55,
       "Speed": 98
     },
-"description":""
+    "description": ""
   },
   {
     "id": 551,
@@ -11822,7 +11823,7 @@
       "Sp. Defense": 35,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 552,
@@ -11844,7 +11845,7 @@
       "Sp. Defense": 45,
       "Speed": 74
     },
-"description":""
+    "description": ""
   },
   {
     "id": 553,
@@ -11866,7 +11867,7 @@
       "Sp. Defense": 70,
       "Speed": 92
     },
-"description":""
+    "description": ""
   },
   {
     "id": 554,
@@ -11887,7 +11888,7 @@
       "Sp. Defense": 45,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 555,
@@ -11908,7 +11909,7 @@
       "Sp. Defense": 55,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 556,
@@ -11929,7 +11930,7 @@
       "Sp. Defense": 67,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 557,
@@ -11951,7 +11952,7 @@
       "Sp. Defense": 35,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 558,
@@ -11973,7 +11974,7 @@
       "Sp. Defense": 75,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 559,
@@ -11995,7 +11996,7 @@
       "Sp. Defense": 70,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 560,
@@ -12017,7 +12018,7 @@
       "Sp. Defense": 115,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 561,
@@ -12039,7 +12040,7 @@
       "Sp. Defense": 80,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 562,
@@ -12060,7 +12061,7 @@
       "Sp. Defense": 65,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 563,
@@ -12081,7 +12082,7 @@
       "Sp. Defense": 105,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 564,
@@ -12103,7 +12104,7 @@
       "Sp. Defense": 45,
       "Speed": 22
     },
-"description":""
+    "description": ""
   },
   {
     "id": 565,
@@ -12125,7 +12126,7 @@
       "Sp. Defense": 65,
       "Speed": 32
     },
-"description":""
+    "description": ""
   },
   {
     "id": 566,
@@ -12147,7 +12148,7 @@
       "Sp. Defense": 45,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 567,
@@ -12169,7 +12170,7 @@
       "Sp. Defense": 65,
       "Speed": 110
     },
-"description":""
+    "description": ""
   },
   {
     "id": 568,
@@ -12190,7 +12191,7 @@
       "Sp. Defense": 62,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 569,
@@ -12211,7 +12212,7 @@
       "Sp. Defense": 82,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 570,
@@ -12232,7 +12233,7 @@
       "Sp. Defense": 40,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 571,
@@ -12253,7 +12254,7 @@
       "Sp. Defense": 60,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 572,
@@ -12274,7 +12275,7 @@
       "Sp. Defense": 40,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 573,
@@ -12295,7 +12296,7 @@
       "Sp. Defense": 60,
       "Speed": 115
     },
-"description":""
+    "description": ""
   },
   {
     "id": 574,
@@ -12316,7 +12317,7 @@
       "Sp. Defense": 65,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 575,
@@ -12337,7 +12338,7 @@
       "Sp. Defense": 85,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 576,
@@ -12358,7 +12359,7 @@
       "Sp. Defense": 110,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 577,
@@ -12379,7 +12380,7 @@
       "Sp. Defense": 50,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 578,
@@ -12400,7 +12401,7 @@
       "Sp. Defense": 60,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 579,
@@ -12421,7 +12422,7 @@
       "Sp. Defense": 85,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 580,
@@ -12443,7 +12444,7 @@
       "Sp. Defense": 50,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 581,
@@ -12465,7 +12466,7 @@
       "Sp. Defense": 63,
       "Speed": 98
     },
-"description":""
+    "description": ""
   },
   {
     "id": 582,
@@ -12486,7 +12487,7 @@
       "Sp. Defense": 60,
       "Speed": 44
     },
-"description":""
+    "description": ""
   },
   {
     "id": 583,
@@ -12507,7 +12508,7 @@
       "Sp. Defense": 75,
       "Speed": 59
     },
-"description":""
+    "description": ""
   },
   {
     "id": 584,
@@ -12528,7 +12529,7 @@
       "Sp. Defense": 95,
       "Speed": 79
     },
-"description":""
+    "description": ""
   },
   {
     "id": 585,
@@ -12550,7 +12551,7 @@
       "Sp. Defense": 50,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 586,
@@ -12572,7 +12573,7 @@
       "Sp. Defense": 70,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 587,
@@ -12594,7 +12595,7 @@
       "Sp. Defense": 60,
       "Speed": 103
     },
-"description":""
+    "description": ""
   },
   {
     "id": 588,
@@ -12615,7 +12616,7 @@
       "Sp. Defense": 45,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 589,
@@ -12637,7 +12638,7 @@
       "Sp. Defense": 105,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 590,
@@ -12659,7 +12660,7 @@
       "Sp. Defense": 55,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 591,
@@ -12681,7 +12682,7 @@
       "Sp. Defense": 80,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 592,
@@ -12703,7 +12704,7 @@
       "Sp. Defense": 85,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 593,
@@ -12725,7 +12726,7 @@
       "Sp. Defense": 105,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 594,
@@ -12746,7 +12747,7 @@
       "Sp. Defense": 45,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 595,
@@ -12768,7 +12769,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 596,
@@ -12790,7 +12791,7 @@
       "Sp. Defense": 60,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 597,
@@ -12812,7 +12813,7 @@
       "Sp. Defense": 86,
       "Speed": 10
     },
-"description":""
+    "description": ""
   },
   {
     "id": 598,
@@ -12834,7 +12835,7 @@
       "Sp. Defense": 116,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 599,
@@ -12855,7 +12856,7 @@
       "Sp. Defense": 60,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 600,
@@ -12876,7 +12877,7 @@
       "Sp. Defense": 85,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 601,
@@ -12897,7 +12898,7 @@
       "Sp. Defense": 85,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 602,
@@ -12918,7 +12919,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 603,
@@ -12939,7 +12940,7 @@
       "Sp. Defense": 70,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 604,
@@ -12960,7 +12961,7 @@
       "Sp. Defense": 80,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 605,
@@ -12981,7 +12982,7 @@
       "Sp. Defense": 55,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 606,
@@ -13002,7 +13003,7 @@
       "Sp. Defense": 95,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 607,
@@ -13024,7 +13025,7 @@
       "Sp. Defense": 55,
       "Speed": 20
     },
-"description":""
+    "description": ""
   },
   {
     "id": 608,
@@ -13046,7 +13047,7 @@
       "Sp. Defense": 60,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 609,
@@ -13068,7 +13069,7 @@
       "Sp. Defense": 90,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 610,
@@ -13089,7 +13090,7 @@
       "Sp. Defense": 40,
       "Speed": 57
     },
-"description":""
+    "description": ""
   },
   {
     "id": 611,
@@ -13110,7 +13111,7 @@
       "Sp. Defense": 50,
       "Speed": 67
     },
-"description":""
+    "description": ""
   },
   {
     "id": 612,
@@ -13131,7 +13132,7 @@
       "Sp. Defense": 70,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 613,
@@ -13152,7 +13153,7 @@
       "Sp. Defense": 40,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 614,
@@ -13173,7 +13174,7 @@
       "Sp. Defense": 80,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 615,
@@ -13194,7 +13195,7 @@
       "Sp. Defense": 135,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 616,
@@ -13215,7 +13216,7 @@
       "Sp. Defense": 65,
       "Speed": 25
     },
-"description":""
+    "description": ""
   },
   {
     "id": 617,
@@ -13236,7 +13237,7 @@
       "Sp. Defense": 60,
       "Speed": 145
     },
-"description":""
+    "description": ""
   },
   {
     "id": 618,
@@ -13258,7 +13259,7 @@
       "Sp. Defense": 99,
       "Speed": 32
     },
-"description":""
+    "description": ""
   },
   {
     "id": 619,
@@ -13279,7 +13280,7 @@
       "Sp. Defense": 50,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 620,
@@ -13300,7 +13301,7 @@
       "Sp. Defense": 60,
       "Speed": 105
     },
-"description":""
+    "description": ""
   },
   {
     "id": 621,
@@ -13321,7 +13322,7 @@
       "Sp. Defense": 90,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 622,
@@ -13343,7 +13344,7 @@
       "Sp. Defense": 50,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 623,
@@ -13365,7 +13366,7 @@
       "Sp. Defense": 80,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 624,
@@ -13387,7 +13388,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 625,
@@ -13409,7 +13410,7 @@
       "Sp. Defense": 70,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 626,
@@ -13430,7 +13431,7 @@
       "Sp. Defense": 95,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 627,
@@ -13452,7 +13453,7 @@
       "Sp. Defense": 50,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 628,
@@ -13474,7 +13475,7 @@
       "Sp. Defense": 75,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 629,
@@ -13496,7 +13497,7 @@
       "Sp. Defense": 65,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 630,
@@ -13518,7 +13519,7 @@
       "Sp. Defense": 95,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 631,
@@ -13539,7 +13540,7 @@
       "Sp. Defense": 66,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 632,
@@ -13561,7 +13562,7 @@
       "Sp. Defense": 48,
       "Speed": 109
     },
-"description":""
+    "description": ""
   },
   {
     "id": 633,
@@ -13583,7 +13584,7 @@
       "Sp. Defense": 50,
       "Speed": 38
     },
-"description":""
+    "description": ""
   },
   {
     "id": 634,
@@ -13605,7 +13606,7 @@
       "Sp. Defense": 70,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 635,
@@ -13627,7 +13628,7 @@
       "Sp. Defense": 90,
       "Speed": 98
     },
-"description":""
+    "description": ""
   },
   {
     "id": 636,
@@ -13649,7 +13650,7 @@
       "Sp. Defense": 55,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 637,
@@ -13671,7 +13672,7 @@
       "Sp. Defense": 105,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 638,
@@ -13693,7 +13694,7 @@
       "Sp. Defense": 72,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 639,
@@ -13715,7 +13716,7 @@
       "Sp. Defense": 90,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 640,
@@ -13737,7 +13738,7 @@
       "Sp. Defense": 129,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 641,
@@ -13758,7 +13759,7 @@
       "Sp. Defense": 80,
       "Speed": 111
     },
-"description":""
+    "description": ""
   },
   {
     "id": 642,
@@ -13780,7 +13781,7 @@
       "Sp. Defense": 80,
       "Speed": 111
     },
-"description":""
+    "description": ""
   },
   {
     "id": 643,
@@ -13802,7 +13803,7 @@
       "Sp. Defense": 120,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 644,
@@ -13824,7 +13825,7 @@
       "Sp. Defense": 100,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 645,
@@ -13846,7 +13847,7 @@
       "Sp. Defense": 80,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 646,
@@ -13868,7 +13869,7 @@
       "Sp. Defense": 90,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 647,
@@ -13890,7 +13891,7 @@
       "Sp. Defense": 90,
       "Speed": 108
     },
-"description":""
+    "description": ""
   },
   {
     "id": 648,
@@ -13912,7 +13913,7 @@
       "Sp. Defense": 128,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 649,
@@ -13934,7 +13935,7 @@
       "Sp. Defense": 95,
       "Speed": 99
     },
-"description":""
+    "description": ""
   },
   {
     "id": 650,
@@ -13955,7 +13956,7 @@
       "Sp. Defense": 45,
       "Speed": 38
     },
-"description":""
+    "description": ""
   },
   {
     "id": 651,
@@ -13976,7 +13977,7 @@
       "Sp. Defense": 58,
       "Speed": 57
     },
-"description":""
+    "description": ""
   },
   {
     "id": 652,
@@ -13998,7 +13999,7 @@
       "Sp. Defense": 75,
       "Speed": 64
     },
-"description":""
+    "description": ""
   },
   {
     "id": 653,
@@ -14019,7 +14020,7 @@
       "Sp. Defense": 60,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 654,
@@ -14040,7 +14041,7 @@
       "Sp. Defense": 70,
       "Speed": 73
     },
-"description":""
+    "description": ""
   },
   {
     "id": 655,
@@ -14062,7 +14063,7 @@
       "Sp. Defense": 100,
       "Speed": 104
     },
-"description":""
+    "description": ""
   },
   {
     "id": 656,
@@ -14083,7 +14084,7 @@
       "Sp. Defense": 44,
       "Speed": 71
     },
-"description":""
+    "description": ""
   },
   {
     "id": 657,
@@ -14104,7 +14105,7 @@
       "Sp. Defense": 56,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 658,
@@ -14126,7 +14127,7 @@
       "Sp. Defense": 71,
       "Speed": 122
     },
-"description":""
+    "description": ""
   },
   {
     "id": 659,
@@ -14147,7 +14148,7 @@
       "Sp. Defense": 36,
       "Speed": 57
     },
-"description":""
+    "description": ""
   },
   {
     "id": 660,
@@ -14169,7 +14170,7 @@
       "Sp. Defense": 77,
       "Speed": 78
     },
-"description":""
+    "description": ""
   },
   {
     "id": 661,
@@ -14191,7 +14192,7 @@
       "Sp. Defense": 38,
       "Speed": 62
     },
-"description":""
+    "description": ""
   },
   {
     "id": 662,
@@ -14213,7 +14214,7 @@
       "Sp. Defense": 52,
       "Speed": 84
     },
-"description":""
+    "description": ""
   },
   {
     "id": 663,
@@ -14235,7 +14236,7 @@
       "Sp. Defense": 69,
       "Speed": 126
     },
-"description":""
+    "description": ""
   },
   {
     "id": 664,
@@ -14256,7 +14257,7 @@
       "Sp. Defense": 25,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 665,
@@ -14277,7 +14278,7 @@
       "Sp. Defense": 30,
       "Speed": 29
     },
-"description":""
+    "description": ""
   },
   {
     "id": 666,
@@ -14299,7 +14300,7 @@
       "Sp. Defense": 50,
       "Speed": 89
     },
-"description":""
+    "description": ""
   },
   {
     "id": 667,
@@ -14321,7 +14322,7 @@
       "Sp. Defense": 54,
       "Speed": 72
     },
-"description":""
+    "description": ""
   },
   {
     "id": 668,
@@ -14343,7 +14344,7 @@
       "Sp. Defense": 66,
       "Speed": 106
     },
-"description":""
+    "description": ""
   },
   {
     "id": 669,
@@ -14364,7 +14365,7 @@
       "Sp. Defense": 79,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 670,
@@ -14385,7 +14386,7 @@
       "Sp. Defense": 98,
       "Speed": 52
     },
-"description":""
+    "description": ""
   },
   {
     "id": 671,
@@ -14406,7 +14407,7 @@
       "Sp. Defense": 154,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 672,
@@ -14427,7 +14428,7 @@
       "Sp. Defense": 57,
       "Speed": 52
     },
-"description":""
+    "description": ""
   },
   {
     "id": 673,
@@ -14448,7 +14449,7 @@
       "Sp. Defense": 81,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 674,
@@ -14469,7 +14470,7 @@
       "Sp. Defense": 48,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 675,
@@ -14491,7 +14492,7 @@
       "Sp. Defense": 71,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 676,
@@ -14512,7 +14513,7 @@
       "Sp. Defense": 90,
       "Speed": 102
     },
-"description":""
+    "description": ""
   },
   {
     "id": 677,
@@ -14533,7 +14534,7 @@
       "Sp. Defense": 60,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 678,
@@ -14554,7 +14555,7 @@
       "Sp. Defense": 81,
       "Speed": 104
     },
-"description":""
+    "description": ""
   },
   {
     "id": 679,
@@ -14576,7 +14577,7 @@
       "Sp. Defense": 37,
       "Speed": 28
     },
-"description":""
+    "description": ""
   },
   {
     "id": 680,
@@ -14598,7 +14599,7 @@
       "Sp. Defense": 49,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 681,
@@ -14620,7 +14621,7 @@
       "Sp. Defense": 150,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 682,
@@ -14641,7 +14642,7 @@
       "Sp. Defense": 65,
       "Speed": 23
     },
-"description":""
+    "description": ""
   },
   {
     "id": 683,
@@ -14662,7 +14663,7 @@
       "Sp. Defense": 89,
       "Speed": 29
     },
-"description":""
+    "description": ""
   },
   {
     "id": 684,
@@ -14683,7 +14684,7 @@
       "Sp. Defense": 57,
       "Speed": 49
     },
-"description":""
+    "description": ""
   },
   {
     "id": 685,
@@ -14704,7 +14705,7 @@
       "Sp. Defense": 75,
       "Speed": 72
     },
-"description":""
+    "description": ""
   },
   {
     "id": 686,
@@ -14726,7 +14727,7 @@
       "Sp. Defense": 46,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 687,
@@ -14748,7 +14749,7 @@
       "Sp. Defense": 75,
       "Speed": 73
     },
-"description":""
+    "description": ""
   },
   {
     "id": 688,
@@ -14770,7 +14771,7 @@
       "Sp. Defense": 56,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 689,
@@ -14792,7 +14793,7 @@
       "Sp. Defense": 86,
       "Speed": 68
     },
-"description":""
+    "description": ""
   },
   {
     "id": 690,
@@ -14814,7 +14815,7 @@
       "Sp. Defense": 60,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 691,
@@ -14836,7 +14837,7 @@
       "Sp. Defense": 123,
       "Speed": 44
     },
-"description":""
+    "description": ""
   },
   {
     "id": 692,
@@ -14857,7 +14858,7 @@
       "Sp. Defense": 63,
       "Speed": 44
     },
-"description":""
+    "description": ""
   },
   {
     "id": 693,
@@ -14878,7 +14879,7 @@
       "Sp. Defense": 89,
       "Speed": 59
     },
-"description":""
+    "description": ""
   },
   {
     "id": 694,
@@ -14900,7 +14901,7 @@
       "Sp. Defense": 43,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 695,
@@ -14922,7 +14923,7 @@
       "Sp. Defense": 94,
       "Speed": 109
     },
-"description":""
+    "description": ""
   },
   {
     "id": 696,
@@ -14944,7 +14945,7 @@
       "Sp. Defense": 45,
       "Speed": 48
     },
-"description":""
+    "description": ""
   },
   {
     "id": 697,
@@ -14966,7 +14967,7 @@
       "Sp. Defense": 59,
       "Speed": 71
     },
-"description":""
+    "description": ""
   },
   {
     "id": 698,
@@ -14988,7 +14989,7 @@
       "Sp. Defense": 63,
       "Speed": 46
     },
-"description":""
+    "description": ""
   },
   {
     "id": 699,
@@ -15010,7 +15011,7 @@
       "Sp. Defense": 92,
       "Speed": 58
     },
-"description":""
+    "description": ""
   },
   {
     "id": 700,
@@ -15031,7 +15032,7 @@
       "Sp. Defense": 130,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 701,
@@ -15053,7 +15054,7 @@
       "Sp. Defense": 63,
       "Speed": 118
     },
-"description":""
+    "description": ""
   },
   {
     "id": 702,
@@ -15075,7 +15076,7 @@
       "Sp. Defense": 67,
       "Speed": 101
     },
-"description":""
+    "description": ""
   },
   {
     "id": 703,
@@ -15097,7 +15098,7 @@
       "Sp. Defense": 150,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 704,
@@ -15118,7 +15119,7 @@
       "Sp. Defense": 75,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 705,
@@ -15139,7 +15140,7 @@
       "Sp. Defense": 113,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 706,
@@ -15160,7 +15161,7 @@
       "Sp. Defense": 150,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 707,
@@ -15182,7 +15183,7 @@
       "Sp. Defense": 87,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 708,
@@ -15204,7 +15205,7 @@
       "Sp. Defense": 60,
       "Speed": 38
     },
-"description":""
+    "description": ""
   },
   {
     "id": 709,
@@ -15226,7 +15227,7 @@
       "Sp. Defense": 82,
       "Speed": 56
     },
-"description":""
+    "description": ""
   },
   {
     "id": 710,
@@ -15248,7 +15249,7 @@
       "Sp. Defense": 55,
       "Speed": 41
     },
-"description":""
+    "description": ""
   },
   {
     "id": 711,
@@ -15270,7 +15271,7 @@
       "Sp. Defense": 75,
       "Speed": 54
     },
-"description":""
+    "description": ""
   },
   {
     "id": 712,
@@ -15291,7 +15292,7 @@
       "Sp. Defense": 35,
       "Speed": 28
     },
-"description":""
+    "description": ""
   },
   {
     "id": 713,
@@ -15312,7 +15313,7 @@
       "Sp. Defense": 46,
       "Speed": 28
     },
-"description":""
+    "description": ""
   },
   {
     "id": 714,
@@ -15334,7 +15335,7 @@
       "Sp. Defense": 40,
       "Speed": 55
     },
-"description":""
+    "description": ""
   },
   {
     "id": 715,
@@ -15356,7 +15357,7 @@
       "Sp. Defense": 80,
       "Speed": 123
     },
-"description":""
+    "description": ""
   },
   {
     "id": 716,
@@ -15377,7 +15378,7 @@
       "Sp. Defense": 98,
       "Speed": 99
     },
-"description":""
+    "description": ""
   },
   {
     "id": 717,
@@ -15399,7 +15400,7 @@
       "Sp. Defense": 98,
       "Speed": 99
     },
-"description":""
+    "description": ""
   },
   {
     "id": 718,
@@ -15421,7 +15422,7 @@
       "Sp. Defense": 95,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 719,
@@ -15443,7 +15444,7 @@
       "Sp. Defense": 150,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 720,
@@ -15465,7 +15466,7 @@
       "Sp. Defense": 130,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 721,
@@ -15487,7 +15488,7 @@
       "Sp. Defense": 90,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 722,
@@ -15509,7 +15510,7 @@
       "Sp. Defense": 50,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 723,
@@ -15531,7 +15532,7 @@
       "Sp. Defense": 70,
       "Speed": 52
     },
-"description":""
+    "description": ""
   },
   {
     "id": 724,
@@ -15553,7 +15554,7 @@
       "Sp. Defense": 100,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 725,
@@ -15574,7 +15575,7 @@
       "Sp. Defense": 40,
       "Speed": 70
     },
-"description":""
+    "description": ""
   },
   {
     "id": 726,
@@ -15595,7 +15596,7 @@
       "Sp. Defense": 50,
       "Speed": 90
     },
-"description":""
+    "description": ""
   },
   {
     "id": 727,
@@ -15617,7 +15618,7 @@
       "Sp. Defense": 90,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 728,
@@ -15638,7 +15639,7 @@
       "Sp. Defense": 56,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 729,
@@ -15659,7 +15660,7 @@
       "Sp. Defense": 81,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 730,
@@ -15681,7 +15682,7 @@
       "Sp. Defense": 116,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 731,
@@ -15703,7 +15704,7 @@
       "Sp. Defense": 30,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 732,
@@ -15725,7 +15726,7 @@
       "Sp. Defense": 50,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 733,
@@ -15747,7 +15748,7 @@
       "Sp. Defense": 75,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 734,
@@ -15768,7 +15769,7 @@
       "Sp. Defense": 30,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 735,
@@ -15789,7 +15790,7 @@
       "Sp. Defense": 60,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 736,
@@ -15810,7 +15811,7 @@
       "Sp. Defense": 45,
       "Speed": 46
     },
-"description":""
+    "description": ""
   },
   {
     "id": 737,
@@ -15832,7 +15833,7 @@
       "Sp. Defense": 75,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 738,
@@ -15854,7 +15855,7 @@
       "Sp. Defense": 75,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 739,
@@ -15875,7 +15876,7 @@
       "Sp. Defense": 47,
       "Speed": 63
     },
-"description":""
+    "description": ""
   },
   {
     "id": 740,
@@ -15897,7 +15898,7 @@
       "Sp. Defense": 67,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 741,
@@ -15919,7 +15920,7 @@
       "Sp. Defense": 70,
       "Speed": 93
     },
-"description":""
+    "description": ""
   },
   {
     "id": 742,
@@ -15941,7 +15942,7 @@
       "Sp. Defense": 40,
       "Speed": 84
     },
-"description":""
+    "description": ""
   },
   {
     "id": 743,
@@ -15963,7 +15964,7 @@
       "Sp. Defense": 70,
       "Speed": 124
     },
-"description":""
+    "description": ""
   },
   {
     "id": 744,
@@ -15984,7 +15985,7 @@
       "Sp. Defense": 40,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 745,
@@ -16005,7 +16006,7 @@
       "Sp. Defense": 65,
       "Speed": 112
     },
-"description":""
+    "description": ""
   },
   {
     "id": 746,
@@ -16026,7 +16027,7 @@
       "Sp. Defense": 25,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 747,
@@ -16048,7 +16049,7 @@
       "Sp. Defense": 52,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 748,
@@ -16070,7 +16071,7 @@
       "Sp. Defense": 142,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 749,
@@ -16091,7 +16092,7 @@
       "Sp. Defense": 55,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 750,
@@ -16112,7 +16113,7 @@
       "Sp. Defense": 85,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 751,
@@ -16134,7 +16135,7 @@
       "Sp. Defense": 72,
       "Speed": 27
     },
-"description":""
+    "description": ""
   },
   {
     "id": 752,
@@ -16156,7 +16157,7 @@
       "Sp. Defense": 132,
       "Speed": 42
     },
-"description":""
+    "description": ""
   },
   {
     "id": 753,
@@ -16177,7 +16178,7 @@
       "Sp. Defense": 35,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 754,
@@ -16198,7 +16199,7 @@
       "Sp. Defense": 90,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 755,
@@ -16220,7 +16221,7 @@
       "Sp. Defense": 75,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 756,
@@ -16242,7 +16243,7 @@
       "Sp. Defense": 100,
       "Speed": 30
     },
-"description":""
+    "description": ""
   },
   {
     "id": 757,
@@ -16264,7 +16265,7 @@
       "Sp. Defense": 40,
       "Speed": 77
     },
-"description":""
+    "description": ""
   },
   {
     "id": 758,
@@ -16286,7 +16287,7 @@
       "Sp. Defense": 60,
       "Speed": 117
     },
-"description":""
+    "description": ""
   },
   {
     "id": 759,
@@ -16308,7 +16309,7 @@
       "Sp. Defense": 50,
       "Speed": 50
     },
-"description":""
+    "description": ""
   },
   {
     "id": 760,
@@ -16330,7 +16331,7 @@
       "Sp. Defense": 60,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 761,
@@ -16351,7 +16352,7 @@
       "Sp. Defense": 38,
       "Speed": 32
     },
-"description":""
+    "description": ""
   },
   {
     "id": 762,
@@ -16372,7 +16373,7 @@
       "Sp. Defense": 48,
       "Speed": 62
     },
-"description":""
+    "description": ""
   },
   {
     "id": 763,
@@ -16393,7 +16394,7 @@
       "Sp. Defense": 98,
       "Speed": 72
     },
-"description":""
+    "description": ""
   },
   {
     "id": 764,
@@ -16414,7 +16415,7 @@
       "Sp. Defense": 110,
       "Speed": 100
     },
-"description":""
+    "description": ""
   },
   {
     "id": 765,
@@ -16436,7 +16437,7 @@
       "Sp. Defense": 110,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 766,
@@ -16457,7 +16458,7 @@
       "Sp. Defense": 60,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 767,
@@ -16479,7 +16480,7 @@
       "Sp. Defense": 30,
       "Speed": 80
     },
-"description":""
+    "description": ""
   },
   {
     "id": 768,
@@ -16501,7 +16502,7 @@
       "Sp. Defense": 90,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 769,
@@ -16523,7 +16524,7 @@
       "Sp. Defense": 45,
       "Speed": 15
     },
-"description":""
+    "description": ""
   },
   {
     "id": 770,
@@ -16545,7 +16546,7 @@
       "Sp. Defense": 75,
       "Speed": 35
     },
-"description":""
+    "description": ""
   },
   {
     "id": 771,
@@ -16566,7 +16567,7 @@
       "Sp. Defense": 130,
       "Speed": 5
     },
-"description":""
+    "description": ""
   },
   {
     "id": 772,
@@ -16587,7 +16588,7 @@
       "Sp. Defense": 95,
       "Speed": 59
     },
-"description":""
+    "description": ""
   },
   {
     "id": 773,
@@ -16608,7 +16609,7 @@
       "Sp. Defense": 95,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 774,
@@ -16630,7 +16631,7 @@
       "Sp. Defense": 100,
       "Speed": 60
     },
-"description":""
+    "description": ""
   },
   {
     "id": 775,
@@ -16651,7 +16652,7 @@
       "Sp. Defense": 95,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 776,
@@ -16673,7 +16674,7 @@
       "Sp. Defense": 85,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 777,
@@ -16695,7 +16696,7 @@
       "Sp. Defense": 73,
       "Speed": 96
     },
-"description":""
+    "description": ""
   },
   {
     "id": 778,
@@ -16717,7 +16718,7 @@
       "Sp. Defense": 105,
       "Speed": 96
     },
-"description":""
+    "description": ""
   },
   {
     "id": 779,
@@ -16739,7 +16740,7 @@
       "Sp. Defense": 70,
       "Speed": 92
     },
-"description":""
+    "description": ""
   },
   {
     "id": 780,
@@ -16761,7 +16762,7 @@
       "Sp. Defense": 91,
       "Speed": 36
     },
-"description":""
+    "description": ""
   },
   {
     "id": 781,
@@ -16783,7 +16784,7 @@
       "Sp. Defense": 90,
       "Speed": 40
     },
-"description":""
+    "description": ""
   },
   {
     "id": 782,
@@ -16804,7 +16805,7 @@
       "Sp. Defense": 45,
       "Speed": 45
     },
-"description":""
+    "description": ""
   },
   {
     "id": 783,
@@ -16826,7 +16827,7 @@
       "Sp. Defense": 70,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 784,
@@ -16848,7 +16849,7 @@
       "Sp. Defense": 105,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 785,
@@ -16870,7 +16871,7 @@
       "Sp. Defense": 75,
       "Speed": 130
     },
-"description":""
+    "description": ""
   },
   {
     "id": 786,
@@ -16892,7 +16893,7 @@
       "Sp. Defense": 115,
       "Speed": 95
     },
-"description":""
+    "description": ""
   },
   {
     "id": 787,
@@ -16914,7 +16915,7 @@
       "Sp. Defense": 95,
       "Speed": 75
     },
-"description":""
+    "description": ""
   },
   {
     "id": 788,
@@ -16936,7 +16937,7 @@
       "Sp. Defense": 130,
       "Speed": 85
     },
-"description":""
+    "description": ""
   },
   {
     "id": 789,
@@ -16957,7 +16958,7 @@
       "Sp. Defense": 31,
       "Speed": 37
     },
-"description":""
+    "description": ""
   },
   {
     "id": 790,
@@ -16978,7 +16979,7 @@
       "Sp. Defense": 131,
       "Speed": 37
     },
-"description":""
+    "description": ""
   },
   {
     "id": 791,
@@ -17000,7 +17001,7 @@
       "Sp. Defense": 89,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 792,
@@ -17022,7 +17023,7 @@
       "Sp. Defense": 107,
       "Speed": 97
     },
-"description":""
+    "description": ""
   },
   {
     "id": 793,
@@ -17044,7 +17045,7 @@
       "Sp. Defense": 131,
       "Speed": 103
     },
-"description":""
+    "description": ""
   },
   {
     "id": 794,
@@ -17066,7 +17067,7 @@
       "Sp. Defense": 53,
       "Speed": 79
     },
-"description":""
+    "description": ""
   },
   {
     "id": 795,
@@ -17088,7 +17089,7 @@
       "Sp. Defense": 37,
       "Speed": 151
     },
-"description":""
+    "description": ""
   },
   {
     "id": 796,
@@ -17109,7 +17110,7 @@
       "Sp. Defense": 71,
       "Speed": 83
     },
-"description":""
+    "description": ""
   },
   {
     "id": 797,
@@ -17131,7 +17132,7 @@
       "Sp. Defense": 101,
       "Speed": 61
     },
-"description":""
+    "description": ""
   },
   {
     "id": 798,
@@ -17153,7 +17154,7 @@
       "Sp. Defense": 31,
       "Speed": 109
     },
-"description":""
+    "description": ""
   },
   {
     "id": 799,
@@ -17175,7 +17176,7 @@
       "Sp. Defense": 53,
       "Speed": 43
     },
-"description":""
+    "description": ""
   },
   {
     "id": 800,
@@ -17196,7 +17197,7 @@
       "Sp. Defense": 89,
       "Speed": 79
     },
-"description":""
+    "description": ""
   },
   {
     "id": 801,
@@ -17218,7 +17219,7 @@
       "Sp. Defense": 115,
       "Speed": 65
     },
-"description":""
+    "description": ""
   },
   {
     "id": 802,
@@ -17240,7 +17241,7 @@
       "Sp. Defense": 90,
       "Speed": 125
     },
-"description":""
+    "description": ""
   },
   {
     "id": 803,
@@ -17261,7 +17262,7 @@
       "Sp. Defense": 67,
       "Speed": 73
     },
-"description":""
+    "description": ""
   },
   {
     "id": 804,
@@ -17283,7 +17284,7 @@
       "Sp. Defense": 73,
       "Speed": 121
     },
-"description":""
+    "description": ""
   },
   {
     "id": 805,
@@ -17305,7 +17306,7 @@
       "Sp. Defense": 101,
       "Speed": 13
     },
-"description":""
+    "description": ""
   },
   {
     "id": 806,
@@ -17327,7 +17328,7 @@
       "Sp. Defense": 79,
       "Speed": 107
     },
-"description":""
+    "description": ""
   },
   {
     "id": 807,
@@ -17348,7 +17349,7 @@
       "Sp. Defense": 80,
       "Speed": 143
     },
-"description":""
+    "description": ""
   },
   {
     "id": 808,
@@ -17369,7 +17370,7 @@
       "Sp. Defense": 35,
       "Speed": 34
     },
-"description":""
+    "description": ""
   },
   {
     "id": 809,
@@ -17390,6 +17391,6 @@
       "Sp. Defense": 65,
       "Speed": 34
     },
-"description":""
+    "description": ""
   }
 ]
