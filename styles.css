@@ -1,7 +1,8 @@
+/* General */
 *{
     box-sizing: border-box;
 }
-body{
+body {
     height: 100vh;
     box-sizing: border-box;
     background-image: url(assets/Wallpaper.png); 
@@ -15,6 +16,7 @@ body{
 .container {
     height: 80%;
     width: 80%;
+    max-width: 800px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -23,37 +25,81 @@ body{
     border: 1px solid #481457;
     box-shadow: 0px 10px #481457;
 }
-.panel{
+.panel {
     background-color: #fd1857;
     padding: 20px;
     flex:auto;
+    width: 50%;
 }
-.panel:first-child{
+.panel:first-child {
     border-radius: 60px 15px 15px 60px;
     height: 100%;
 }
-.panel:last-child{
+.panel:last-child {
     border-radius: 15px 60px 60px 15px;
     height: 75%;
 }
+.round {
+    border-radius: 50%;
+}
+/* Botones falsos */
+.falseButton {
+    display: flex;
+    align-items: flex-start;
+}
+#camera {
+    background-color: white;
+    width: 85px;
+    height: 85px;
+    padding: 10px;
+}
+#lens {
+    border: 5px solid #090240;
+    background-color: #00ddfe;
+    width: 100%;
+    height: 100%;
+}
+.leds {
+    border: 4px solid #160d4a;
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+}
+#l1 {
+    background-color: #ff1856;
+}
+#l2 {
+    background-color: #f8ef61;
+}
+#l3 {
+    background-color: #2ff454;
+}
+/* Pantalla principal*/
+#image {
+    max-width: 55%;
+}
+#screen {
+    border: 10px solid #f3f5e8;
+    background-color: #01d6fc;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+#name {
+    background-color: #f3f5e8;
+}
+#description {
+    background-color: #f3f5e8;
+}
+/* División */
 .division{
-    width: 40   px;
+    width: 40px;
     background-color: #fd1857;
     background: linear-gradient(90deg, rgba(253,24,87,1) 25%, rgba(253,142,116,1) 25%, rgba(253,142,116,1) 50%, rgba(253,24,87,1) 50%, rgba(253,24,87,1) 70%, rgba(72,20,87,1) 70%);
     border-radius: 15px;
     height: 100%;
 }
-#screen {
-    border: 10px solid #f3f5e8;
-    background-color: #01d6fc;
-    margin-top: 60px;
-}
-#name{
-    background-color: #f3f5e8;
-}
-#description{
-    background-color: #f3f5e8;
-}
+/* Panel izquierdo */
 button {
     background-color: rgb(24, 24, 121);
     width: 50px;

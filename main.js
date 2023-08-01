@@ -3,9 +3,9 @@ const max = pokedex.length
 let current = max
 function show() {
     let pokemon = pokedex.find(p => p.id == current)
-    const screen = document.getElementById("screen")
+    const image = document.getElementById("image")
     const url = (current < 100 ? (current < 10 ? "00" : "0") : "") + current
-    screen.innerHTML = "<img src='./thumbnails/" + url + ".png' />"
+    image.setAttribute("src" , "./assets/images/"  + url + ".png")
     const name = document.getElementById("name")
     name.innerHTML = pokemon.name.english
     const description = document.getElementById("description")
